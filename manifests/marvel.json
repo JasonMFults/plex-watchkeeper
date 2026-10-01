@@ -1,0 +1,7950 @@
+{
+  "name": "Marvel Multiverse Marathon",
+  "source": "Jason’s established order",
+  "machine_identifier": "8b878955a394dd0833a570758a9e1b42637131c7",
+  "notes": [
+    "Slingshot and Endgame: Encore excluded.",
+    "Black Widow: skip post-credits here; view the scene after Avengers: Endgame. No duplicate full movie is added.",
+    "Blade pilot may be combined. Resolve catalog numbering by title before approving it."
+  ],
+  "items": [
+    {
+      "kind": "episode",
+      "series": "Eyes of Wakanda",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0001",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Eyes of Wakanda",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0002",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Eyes of Wakanda",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0003",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Eyes of Wakanda",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0004",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Captain America: The First Avenger",
+      "year": 2011,
+      "id": "marvel-0005",
+      "rating_key": "176463"
+    },
+    {
+      "kind": "movie",
+      "title": "Marvel One-Shot: Agent Carter",
+      "year": 2013,
+      "id": "marvel-0006",
+      "rating_key": "176554"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0007",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0008",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0009",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0010",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0011",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0012",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0013",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0014",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0015",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0016",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0017",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0018",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0019",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0020",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0021",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0022",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0023",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agent Carter",
+      "season": 2,
+      "episode": 10,
+      "id": "marvel-0024",
+      "series_aliases": [],
+      "rating_key": "245296",
+      "title": "Episode 10"
+    },
+    {
+      "kind": "movie",
+      "title": "Captain Marvel",
+      "year": 2019,
+      "id": "marvel-0025",
+      "rating_key": "77591"
+    },
+    {
+      "kind": "movie",
+      "title": "Iron Man",
+      "year": 2008,
+      "id": "marvel-0026",
+      "rating_key": "176113"
+    },
+    {
+      "kind": "movie",
+      "title": "Iron Man 2",
+      "year": 2010,
+      "id": "marvel-0027",
+      "rating_key": "176064"
+    },
+    {
+      "kind": "movie",
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "id": "marvel-0028",
+      "rating_key": "180402"
+    },
+    {
+      "kind": "movie",
+      "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor’s Hammer",
+      "year": 2011,
+      "id": "marvel-0029"
+    },
+    {
+      "kind": "movie",
+      "title": "Thor",
+      "year": 2011,
+      "id": "marvel-0030",
+      "rating_key": "180424"
+    },
+    {
+      "kind": "movie",
+      "title": "Marvel One-Shot: The Consultant",
+      "year": 2011,
+      "id": "marvel-0031",
+      "rating_key": "245416"
+    },
+    {
+      "kind": "movie",
+      "title": "The Avengers",
+      "year": 2012,
+      "id": "marvel-0032",
+      "rating_key": "176124"
+    },
+    {
+      "kind": "movie",
+      "title": "Marvel One-Shot: Item 47",
+      "year": 2012,
+      "id": "marvel-0033"
+    },
+    {
+      "kind": "movie",
+      "title": "Iron Man 3",
+      "year": 2013,
+      "id": "marvel-0034",
+      "rating_key": "176450"
+    },
+    {
+      "kind": "movie",
+      "title": "Marvel One-Shot: All Hail the King",
+      "year": 2014,
+      "id": "marvel-0035",
+      "rating_key": "245387"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0036",
+      "series_aliases": [],
+      "rating_key": "236600",
+      "title": "Pilot"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0037",
+      "series_aliases": [],
+      "rating_key": "236601",
+      "title": "0-8-4"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0038",
+      "series_aliases": [],
+      "rating_key": "236602",
+      "title": "The Asset"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0039",
+      "series_aliases": [],
+      "rating_key": "236603",
+      "title": "Eye Spy"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0040",
+      "series_aliases": [],
+      "rating_key": "236604",
+      "title": "Girl in the Flower Dress"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0041",
+      "series_aliases": [],
+      "rating_key": "237102",
+      "title": "FZZT"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0042",
+      "series_aliases": [],
+      "rating_key": "236606",
+      "title": "The Hub"
+    },
+    {
+      "kind": "movie",
+      "title": "Thor: The Dark World",
+      "year": 2013,
+      "id": "marvel-0043",
+      "rating_key": "176125"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0044",
+      "series_aliases": [],
+      "rating_key": "236607",
+      "title": "The Well"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0045",
+      "series_aliases": [],
+      "rating_key": "236608",
+      "title": "Repairs"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0046",
+      "series_aliases": [],
+      "rating_key": "236609",
+      "title": "The Bridge"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 11,
+      "id": "marvel-0047",
+      "series_aliases": [],
+      "rating_key": "236610",
+      "title": "The Magical Place"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 12,
+      "id": "marvel-0048",
+      "series_aliases": [],
+      "rating_key": "236611",
+      "title": "Seeds"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 13,
+      "id": "marvel-0049",
+      "series_aliases": [],
+      "rating_key": "236612",
+      "title": "T.R.A.C.K.S."
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 14,
+      "id": "marvel-0050",
+      "series_aliases": [],
+      "rating_key": "236613",
+      "title": "T.A.H.I.T.I."
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 15,
+      "id": "marvel-0051",
+      "series_aliases": [],
+      "rating_key": "236614",
+      "title": "Yes Men"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 16,
+      "id": "marvel-0052",
+      "series_aliases": [],
+      "rating_key": "236615",
+      "title": "End of the Beginning"
+    },
+    {
+      "kind": "movie",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014,
+      "id": "marvel-0053",
+      "rating_key": "176052"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 17,
+      "id": "marvel-0054",
+      "series_aliases": [],
+      "rating_key": "236616",
+      "title": "Turn, Turn, Turn"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 18,
+      "id": "marvel-0055",
+      "series_aliases": [],
+      "rating_key": "236617",
+      "title": "Providence"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 19,
+      "id": "marvel-0056",
+      "series_aliases": [],
+      "rating_key": "236618",
+      "title": "The Only Light in the Darkness"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 20,
+      "id": "marvel-0057",
+      "series_aliases": [],
+      "rating_key": "236619",
+      "title": "Nothing Personal"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 21,
+      "id": "marvel-0058",
+      "series_aliases": [],
+      "rating_key": "236620",
+      "title": "Ragtag"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 1,
+      "episode": 22,
+      "id": "marvel-0059",
+      "series_aliases": [],
+      "rating_key": "236621",
+      "title": "Beginning of the End"
+    },
+    {
+      "kind": "movie",
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "id": "marvel-0060",
+      "rating_key": "180425"
+    },
+    {
+      "kind": "episode",
+      "series": "I Am Groot",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0061",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Guardians of the Galaxy: Vol. 2",
+      "year": 2017,
+      "id": "marvel-0062",
+      "rating_key": "237468"
+    },
+    {
+      "kind": "episode",
+      "series": "I Am Groot",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0063",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "I Am Groot",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0064",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "I Am Groot",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0065",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "I Am Groot",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0066",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "I Am Groot",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0067",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "I Am Groot",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0068",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "I Am Groot",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0069",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "I Am Groot",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0070",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "I Am Groot",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0071",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0072",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0073",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0074",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0075",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0076",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0077",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0078",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0079",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0080",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0081",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 1,
+      "episode": 11,
+      "id": "marvel-0082",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 1,
+      "episode": 12,
+      "id": "marvel-0083",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 1,
+      "episode": 13,
+      "id": "marvel-0084",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0085",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0086",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0087",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0088",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0089",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0090",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0091",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0092",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0093",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0094",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 1,
+      "episode": 11,
+      "id": "marvel-0095",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 1,
+      "episode": 12,
+      "id": "marvel-0096",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 1,
+      "episode": 13,
+      "id": "marvel-0097",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0098",
+      "series_aliases": [],
+      "rating_key": "236554",
+      "title": "Episode 1"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0099",
+      "series_aliases": [],
+      "rating_key": "236555",
+      "title": "Episode 2"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0100",
+      "series_aliases": [],
+      "rating_key": "236556",
+      "title": "Episode 3"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0101",
+      "series_aliases": [],
+      "rating_key": "236557",
+      "title": "Episode 4"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0102",
+      "series_aliases": [],
+      "rating_key": "236558",
+      "title": "Episode 5"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0103",
+      "series_aliases": [],
+      "rating_key": "236559",
+      "title": "Episode 6"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0104",
+      "series_aliases": [],
+      "rating_key": "236560",
+      "title": "Episode 7"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0105",
+      "series_aliases": [],
+      "rating_key": "236561",
+      "title": "Episode 8"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0106",
+      "series_aliases": [],
+      "rating_key": "236562",
+      "title": "Episode 9"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 10,
+      "id": "marvel-0107",
+      "series_aliases": [],
+      "rating_key": "236563",
+      "title": "Episode 10"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 11,
+      "id": "marvel-0108",
+      "series_aliases": [],
+      "rating_key": "236564",
+      "title": "Episode 11"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 12,
+      "id": "marvel-0109",
+      "series_aliases": [],
+      "rating_key": "236565",
+      "title": "Episode 12"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 13,
+      "id": "marvel-0110",
+      "series_aliases": [],
+      "rating_key": "236566",
+      "title": "Episode 13"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 14,
+      "id": "marvel-0111",
+      "series_aliases": [],
+      "rating_key": "236567",
+      "title": "Episode 14"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 15,
+      "id": "marvel-0112",
+      "series_aliases": [],
+      "rating_key": "236568",
+      "title": "Episode 15"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 16,
+      "id": "marvel-0113",
+      "series_aliases": [],
+      "rating_key": "236569",
+      "title": "Episode 16"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 17,
+      "id": "marvel-0114",
+      "series_aliases": [],
+      "rating_key": "236570",
+      "title": "Episode 17"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 18,
+      "id": "marvel-0115",
+      "series_aliases": [],
+      "rating_key": "236571",
+      "title": "Episode 18"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 19,
+      "id": "marvel-0116",
+      "series_aliases": [],
+      "rating_key": "236572",
+      "title": "Episode 19"
+    },
+    {
+      "kind": "movie",
+      "title": "Avengers: Age of Ultron",
+      "year": 2015,
+      "id": "marvel-0117",
+      "rating_key": "178005"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 20,
+      "id": "marvel-0118",
+      "series_aliases": [],
+      "rating_key": "236573",
+      "title": "Episode 20"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 21,
+      "id": "marvel-0119",
+      "series_aliases": [],
+      "rating_key": "236574",
+      "title": "Episode 21"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 2,
+      "episode": 22,
+      "id": "marvel-0120",
+      "series_aliases": [],
+      "rating_key": "236575",
+      "title": "Episode 22"
+    },
+    {
+      "kind": "episode",
+      "series": "WHIH Newsfront",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0121",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "WHIH Newsfront",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0122",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "WHIH Newsfront",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0123",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "WHIH Newsfront",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0124",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "WHIH Newsfront",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0125",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Ant-Man",
+      "year": 2015,
+      "id": "marvel-0126",
+      "rating_key": "180201"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0127",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0128",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0129",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0130",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0131",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0132",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0133",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0134",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0135",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 2,
+      "episode": 10,
+      "id": "marvel-0136",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 2,
+      "episode": 11,
+      "id": "marvel-0137",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 2,
+      "episode": 12,
+      "id": "marvel-0138",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 2,
+      "episode": 13,
+      "id": "marvel-0139",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0140",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0141",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0142",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0143",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0144",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0145",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0146",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0147",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0148",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0149",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 1,
+      "episode": 11,
+      "id": "marvel-0150",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 1,
+      "episode": 12,
+      "id": "marvel-0151",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 1,
+      "episode": 13,
+      "id": "marvel-0152",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 1,
+      "id": "marvel-0153",
+      "series_aliases": [],
+      "rating_key": "236499",
+      "title": "Episode 1"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 2,
+      "id": "marvel-0154",
+      "series_aliases": [],
+      "rating_key": "236500",
+      "title": "Episode 2"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 3,
+      "id": "marvel-0155",
+      "series_aliases": [],
+      "rating_key": "236501",
+      "title": "Episode 3"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 4,
+      "id": "marvel-0156",
+      "series_aliases": [],
+      "rating_key": "236502",
+      "title": "Episode 4"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 5,
+      "id": "marvel-0157",
+      "series_aliases": [],
+      "rating_key": "236503",
+      "title": "Episode 5"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 6,
+      "id": "marvel-0158",
+      "series_aliases": [],
+      "rating_key": "236504",
+      "title": "Episode 6"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 7,
+      "id": "marvel-0159",
+      "series_aliases": [],
+      "rating_key": "236505",
+      "title": "Episode 7"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 8,
+      "id": "marvel-0160",
+      "series_aliases": [],
+      "rating_key": "236506",
+      "title": "Episode 8"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 9,
+      "id": "marvel-0161",
+      "series_aliases": [],
+      "rating_key": "236507",
+      "title": "Episode 9"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 10,
+      "id": "marvel-0162",
+      "series_aliases": [],
+      "rating_key": "236508",
+      "title": "Episode 10"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 11,
+      "id": "marvel-0163",
+      "series_aliases": [],
+      "rating_key": "236509",
+      "title": "Episode 11"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 12,
+      "id": "marvel-0164",
+      "series_aliases": [],
+      "rating_key": "236510",
+      "title": "Episode 12"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 13,
+      "id": "marvel-0165",
+      "series_aliases": [],
+      "rating_key": "236511",
+      "title": "Episode 13"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 14,
+      "id": "marvel-0166",
+      "series_aliases": [],
+      "rating_key": "236512",
+      "title": "Episode 14"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 15,
+      "id": "marvel-0167",
+      "series_aliases": [],
+      "rating_key": "236513",
+      "title": "Episode 15"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 16,
+      "id": "marvel-0168",
+      "series_aliases": [],
+      "rating_key": "236514",
+      "title": "Episode 16"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 17,
+      "id": "marvel-0169",
+      "series_aliases": [],
+      "rating_key": "236515",
+      "title": "Episode 17"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 18,
+      "id": "marvel-0170",
+      "series_aliases": [],
+      "rating_key": "236516",
+      "title": "Episode 18"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 19,
+      "id": "marvel-0171",
+      "series_aliases": [],
+      "rating_key": "236517",
+      "title": "Episode 19"
+    },
+    {
+      "kind": "episode",
+      "series": "WHIH Newsfront",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0172",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "WHIH Newsfront",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0173",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "WHIH Newsfront",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0174",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "WHIH Newsfront",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0175",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "WHIH Newsfront",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0176",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "id": "marvel-0177",
+      "rating_key": "176145"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 20,
+      "id": "marvel-0178",
+      "series_aliases": [],
+      "rating_key": "236518",
+      "title": "Episode 20"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 21,
+      "id": "marvel-0179",
+      "series_aliases": [],
+      "rating_key": "236519",
+      "title": "Episode 21"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 3,
+      "episode": 22,
+      "id": "marvel-0180",
+      "series_aliases": [],
+      "rating_key": "236520",
+      "title": "Episode 22"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 1,
+      "id": "marvel-0181",
+      "series_aliases": [],
+      "rating_key": "236577",
+      "title": "Episode 1"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 2,
+      "id": "marvel-0182",
+      "series_aliases": [],
+      "rating_key": "236578",
+      "title": "Episode 2"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 3,
+      "id": "marvel-0183",
+      "series_aliases": [],
+      "rating_key": "236579",
+      "title": "Episode 3"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 4,
+      "id": "marvel-0184",
+      "series_aliases": [],
+      "rating_key": "236580",
+      "title": "Episode 4"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 5,
+      "id": "marvel-0185",
+      "series_aliases": [],
+      "rating_key": "236581",
+      "title": "Episode 5"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 6,
+      "id": "marvel-0186",
+      "series_aliases": [],
+      "rating_key": "236582",
+      "title": "Episode 6"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 7,
+      "id": "marvel-0187",
+      "series_aliases": [],
+      "rating_key": "236583",
+      "title": "Episode 7"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 8,
+      "id": "marvel-0188",
+      "series_aliases": [],
+      "rating_key": "236584",
+      "title": "Episode 8"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 9,
+      "id": "marvel-0189",
+      "series_aliases": [],
+      "rating_key": "236585",
+      "title": "Episode 9"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 10,
+      "id": "marvel-0190",
+      "series_aliases": [],
+      "rating_key": "236586",
+      "title": "Episode 10"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 11,
+      "id": "marvel-0191",
+      "series_aliases": [],
+      "rating_key": "236587",
+      "title": "Episode 11"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 12,
+      "id": "marvel-0192",
+      "series_aliases": [],
+      "rating_key": "236588",
+      "title": "Episode 12"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 13,
+      "id": "marvel-0193",
+      "series_aliases": [],
+      "rating_key": "236589",
+      "title": "Episode 13"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 14,
+      "id": "marvel-0194",
+      "series_aliases": [],
+      "rating_key": "236590",
+      "title": "Episode 14"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 15,
+      "id": "marvel-0195",
+      "series_aliases": [],
+      "rating_key": "236591",
+      "title": "Episode 15"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 16,
+      "id": "marvel-0196",
+      "series_aliases": [],
+      "rating_key": "236592",
+      "title": "Episode 16"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 17,
+      "id": "marvel-0197",
+      "series_aliases": [],
+      "rating_key": "236593",
+      "title": "Episode 17"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 18,
+      "id": "marvel-0198",
+      "series_aliases": [],
+      "rating_key": "236594",
+      "title": "Episode 18"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 19,
+      "id": "marvel-0199",
+      "series_aliases": [],
+      "rating_key": "236595",
+      "title": "Episode 19"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 20,
+      "id": "marvel-0200",
+      "series_aliases": [],
+      "rating_key": "236596",
+      "title": "Episode 20"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 21,
+      "id": "marvel-0201",
+      "series_aliases": [],
+      "rating_key": "236597",
+      "title": "Episode 21"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 4,
+      "episode": 22,
+      "id": "marvel-0202",
+      "series_aliases": [],
+      "rating_key": "236598",
+      "title": "Episode 22"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0203",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0204",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0205",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0206",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0207",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0208",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0209",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0210",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0211",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0212",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 1,
+      "episode": 11,
+      "id": "marvel-0213",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 1,
+      "episode": 12,
+      "id": "marvel-0214",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 1,
+      "episode": 13,
+      "id": "marvel-0215",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s The Defenders",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0216",
+      "series_aliases": [
+        "The Defenders"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s The Defenders",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0217",
+      "series_aliases": [
+        "The Defenders"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s The Defenders",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0218",
+      "series_aliases": [
+        "The Defenders"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s The Defenders",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0219",
+      "series_aliases": [
+        "The Defenders"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s The Defenders",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0220",
+      "series_aliases": [
+        "The Defenders"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s The Defenders",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0221",
+      "series_aliases": [
+        "The Defenders"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s The Defenders",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0222",
+      "series_aliases": [
+        "The Defenders"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s The Defenders",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0223",
+      "series_aliases": [
+        "The Defenders"
+      ]
+    },
+    {
+      "kind": "movie",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017,
+      "id": "marvel-0224",
+      "rating_key": "180294"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0225",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0226",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0227",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0228",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0229",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0230",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0231",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0232",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0233",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0234",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 1,
+      "episode": 11,
+      "id": "marvel-0235",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 1,
+      "episode": 12,
+      "id": "marvel-0236",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 1,
+      "episode": 13,
+      "id": "marvel-0237",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "movie",
+      "title": "Black Widow",
+      "year": 2021,
+      "id": "marvel-0238",
+      "rating_key": "176287"
+    },
+    {
+      "kind": "movie",
+      "title": "Doctor Strange",
+      "year": 2016,
+      "id": "marvel-0239",
+      "rating_key": "179111"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 1,
+      "id": "marvel-0240",
+      "series_aliases": [],
+      "rating_key": "236530",
+      "title": "Episode 1"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 2,
+      "id": "marvel-0241",
+      "series_aliases": [],
+      "rating_key": "236531",
+      "title": "Episode 2"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 3,
+      "id": "marvel-0242",
+      "series_aliases": [],
+      "rating_key": "236532",
+      "title": "Episode 3"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 4,
+      "id": "marvel-0243",
+      "series_aliases": [],
+      "rating_key": "236533",
+      "title": "Episode 4"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 5,
+      "id": "marvel-0244",
+      "series_aliases": [],
+      "rating_key": "236534",
+      "title": "Episode 5"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 6,
+      "id": "marvel-0245",
+      "series_aliases": [],
+      "rating_key": "236535",
+      "title": "Episode 6"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 7,
+      "id": "marvel-0246",
+      "series_aliases": [],
+      "rating_key": "236536",
+      "title": "Episode 7"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 8,
+      "id": "marvel-0247",
+      "series_aliases": [],
+      "rating_key": "236537",
+      "title": "Episode 8"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 9,
+      "id": "marvel-0248",
+      "series_aliases": [],
+      "rating_key": "236538",
+      "title": "Episode 9"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 10,
+      "id": "marvel-0249",
+      "series_aliases": [],
+      "rating_key": "236539",
+      "title": "Episode 10"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 11,
+      "id": "marvel-0250",
+      "series_aliases": [],
+      "rating_key": "236540",
+      "title": "Episode 11"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 12,
+      "id": "marvel-0251",
+      "series_aliases": [],
+      "rating_key": "236541",
+      "title": "Episode 12"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 13,
+      "id": "marvel-0252",
+      "series_aliases": [],
+      "rating_key": "236542",
+      "title": "Episode 13"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 14,
+      "id": "marvel-0253",
+      "series_aliases": [],
+      "rating_key": "236543",
+      "title": "Episode 14"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 15,
+      "id": "marvel-0254",
+      "series_aliases": [],
+      "rating_key": "236544",
+      "title": "Episode 15"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 16,
+      "id": "marvel-0255",
+      "series_aliases": [],
+      "rating_key": "236545",
+      "title": "Episode 16"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 17,
+      "id": "marvel-0256",
+      "series_aliases": [],
+      "rating_key": "236546",
+      "title": "Episode 17"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 18,
+      "id": "marvel-0257",
+      "series_aliases": [],
+      "rating_key": "236547",
+      "title": "Episode 18"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 19,
+      "id": "marvel-0258",
+      "series_aliases": [],
+      "rating_key": "236548",
+      "title": "Episode 19"
+    },
+    {
+      "kind": "movie",
+      "title": "Black Panther",
+      "year": 2018,
+      "id": "marvel-0259",
+      "rating_key": "176146"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0260",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0261",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0262",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0263",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0264",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0265",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0266",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0267",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0268",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 2,
+      "episode": 10,
+      "id": "marvel-0269",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 2,
+      "episode": 11,
+      "id": "marvel-0270",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 2,
+      "episode": 12,
+      "id": "marvel-0271",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 2,
+      "episode": 13,
+      "id": "marvel-0272",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Inhumans",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0273",
+      "series_aliases": [
+        "Inhumans"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Inhumans",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0274",
+      "series_aliases": [
+        "Inhumans"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Inhumans",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0275",
+      "series_aliases": [
+        "Inhumans"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Inhumans",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0276",
+      "series_aliases": [
+        "Inhumans"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Inhumans",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0277",
+      "series_aliases": [
+        "Inhumans"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Inhumans",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0278",
+      "series_aliases": [
+        "Inhumans"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Inhumans",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0279",
+      "series_aliases": [
+        "Inhumans"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Inhumans",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0280",
+      "series_aliases": [
+        "Inhumans"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0281",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0282",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0283",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0284",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0285",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0286",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0287",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0288",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0289",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 2,
+      "episode": 10,
+      "id": "marvel-0290",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 2,
+      "episode": 11,
+      "id": "marvel-0291",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 2,
+      "episode": 12,
+      "id": "marvel-0292",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Luke Cage",
+      "season": 2,
+      "episode": 13,
+      "id": "marvel-0293",
+      "series_aliases": [
+        "Luke Cage"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0294",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0295",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0296",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0297",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0298",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0299",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0300",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0301",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0302",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Iron Fist",
+      "season": 2,
+      "episode": 10,
+      "id": "marvel-0303",
+      "series_aliases": [
+        "Iron Fist"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 3,
+      "episode": 1,
+      "id": "marvel-0304",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 3,
+      "episode": 2,
+      "id": "marvel-0305",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 3,
+      "episode": 3,
+      "id": "marvel-0306",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 3,
+      "episode": 4,
+      "id": "marvel-0307",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 3,
+      "episode": 5,
+      "id": "marvel-0308",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 3,
+      "episode": 6,
+      "id": "marvel-0309",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 3,
+      "episode": 7,
+      "id": "marvel-0310",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 3,
+      "episode": 8,
+      "id": "marvel-0311",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 3,
+      "episode": 9,
+      "id": "marvel-0312",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 3,
+      "episode": 10,
+      "id": "marvel-0313",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 3,
+      "episode": 11,
+      "id": "marvel-0314",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 3,
+      "episode": 12,
+      "id": "marvel-0315",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Daredevil",
+      "season": 3,
+      "episode": 13,
+      "id": "marvel-0316",
+      "series_aliases": [
+        "Daredevil"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0317",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0318",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0319",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0320",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0321",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0322",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0323",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0324",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0325",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 2,
+      "episode": 10,
+      "id": "marvel-0326",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 2,
+      "episode": 11,
+      "id": "marvel-0327",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 2,
+      "episode": 12,
+      "id": "marvel-0328",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's The Punisher",
+      "season": 2,
+      "episode": 13,
+      "id": "marvel-0329",
+      "series_aliases": [
+        "The Punisher"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 3,
+      "episode": 1,
+      "id": "marvel-0330",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 3,
+      "episode": 2,
+      "id": "marvel-0331",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 3,
+      "episode": 3,
+      "id": "marvel-0332",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 3,
+      "episode": 4,
+      "id": "marvel-0333",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 3,
+      "episode": 5,
+      "id": "marvel-0334",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 3,
+      "episode": 6,
+      "id": "marvel-0335",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 3,
+      "episode": 7,
+      "id": "marvel-0336",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 3,
+      "episode": 8,
+      "id": "marvel-0337",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 3,
+      "episode": 9,
+      "id": "marvel-0338",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 3,
+      "episode": 10,
+      "id": "marvel-0339",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 3,
+      "episode": 11,
+      "id": "marvel-0340",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 3,
+      "episode": 12,
+      "id": "marvel-0341",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Jessica Jones",
+      "season": 3,
+      "episode": 13,
+      "id": "marvel-0342",
+      "series_aliases": [
+        "Jessica Jones"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0343",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0344",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0345",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0346",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0347",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0348",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0349",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0350",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0351",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0352",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0353",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0354",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0355",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0356",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0357",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0358",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0359",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0360",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0361",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 2,
+      "episode": 10,
+      "id": "marvel-0362",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 2,
+      "episode": 11,
+      "id": "marvel-0363",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 2,
+      "episode": 12,
+      "id": "marvel-0364",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 2,
+      "episode": 13,
+      "id": "marvel-0365",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0366",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0367",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0368",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0369",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0370",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0371",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0372",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0373",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0374",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0375",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0376",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0377",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0378",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0379",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0380",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0381",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0382",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0383",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0384",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Cloak & Dagger",
+      "season": 2,
+      "episode": 10,
+      "id": "marvel-0385",
+      "series_aliases": [
+        "Cloak & Dagger"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 3,
+      "episode": 1,
+      "id": "marvel-0386",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 3,
+      "episode": 2,
+      "id": "marvel-0387",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 3,
+      "episode": 3,
+      "id": "marvel-0388",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 3,
+      "episode": 4,
+      "id": "marvel-0389",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 3,
+      "episode": 5,
+      "id": "marvel-0390",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 3,
+      "episode": 6,
+      "id": "marvel-0391",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 3,
+      "episode": 7,
+      "id": "marvel-0392",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 3,
+      "episode": 8,
+      "id": "marvel-0393",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 3,
+      "episode": 9,
+      "id": "marvel-0394",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel’s Runaways",
+      "season": 3,
+      "episode": 10,
+      "id": "marvel-0395",
+      "series_aliases": [
+        "Runaways"
+      ]
+    },
+    {
+      "kind": "movie",
+      "title": "Thor: Ragnarok",
+      "year": 2017,
+      "id": "marvel-0396",
+      "rating_key": "180378"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 20,
+      "id": "marvel-0397",
+      "series_aliases": [],
+      "rating_key": "236549",
+      "title": "Episode 20"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 21,
+      "id": "marvel-0398",
+      "series_aliases": [],
+      "rating_key": "236550",
+      "title": "Episode 21"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 5,
+      "episode": 22,
+      "id": "marvel-0399",
+      "series_aliases": [],
+      "rating_key": "236551",
+      "title": "Episode 22"
+    },
+    {
+      "kind": "movie",
+      "title": "Ant-Man and the Wasp",
+      "year": 2018,
+      "id": "marvel-0400",
+      "rating_key": "178909"
+    },
+    {
+      "kind": "movie",
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "id": "marvel-0401",
+      "rating_key": "180235"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "episode": 1,
+      "id": "marvel-0402",
+      "series_aliases": [],
+      "rating_key": "236623",
+      "title": "Missing Pieces"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "episode": 2,
+      "id": "marvel-0403",
+      "series_aliases": [],
+      "rating_key": "236624",
+      "title": "Window of Opportunity"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "episode": 3,
+      "id": "marvel-0404",
+      "series_aliases": [],
+      "rating_key": "236625",
+      "title": "Fear and Loathing on the Planet of Kitson"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "episode": 4,
+      "id": "marvel-0405",
+      "series_aliases": [],
+      "rating_key": "236626",
+      "title": "Code Yellow"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "episode": 5,
+      "id": "marvel-0406",
+      "series_aliases": [],
+      "rating_key": "236627",
+      "title": "The Other Thing"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "episode": 6,
+      "id": "marvel-0407",
+      "series_aliases": [],
+      "rating_key": "236628",
+      "title": "Inescapable"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "episode": 7,
+      "id": "marvel-0408",
+      "series_aliases": [],
+      "rating_key": "236629",
+      "title": "Toldja"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "episode": 8,
+      "id": "marvel-0409",
+      "series_aliases": [],
+      "rating_key": "236630",
+      "title": "Collision Course (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "episode": 9,
+      "id": "marvel-0410",
+      "series_aliases": [],
+      "rating_key": "236631",
+      "title": "Collision Course (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "episode": 10,
+      "id": "marvel-0411",
+      "series_aliases": [],
+      "rating_key": "236632",
+      "title": "Leap"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "episode": 11,
+      "id": "marvel-0412",
+      "series_aliases": [],
+      "rating_key": "236633",
+      "title": "From the Ashes"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "episode": 12,
+      "id": "marvel-0413",
+      "series_aliases": [],
+      "rating_key": "236634",
+      "title": "The Sign"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 6,
+      "episode": 13,
+      "id": "marvel-0414",
+      "series_aliases": [],
+      "rating_key": "236635",
+      "title": "New Life"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "episode": 1,
+      "id": "marvel-0415",
+      "series_aliases": [],
+      "rating_key": "237103",
+      "title": "The New Deal"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "episode": 2,
+      "id": "marvel-0416",
+      "series_aliases": [],
+      "rating_key": "237104",
+      "title": "Know Your Onions"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "episode": 3,
+      "id": "marvel-0417",
+      "series_aliases": [],
+      "rating_key": "237105",
+      "title": "Alien Commies from the Future!"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "episode": 4,
+      "id": "marvel-0418",
+      "series_aliases": [],
+      "rating_key": "236552",
+      "title": "Out of the Past"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "episode": 5,
+      "id": "marvel-0419",
+      "series_aliases": [],
+      "rating_key": "236528",
+      "title": "A Trout in the Milk"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "episode": 6,
+      "id": "marvel-0420",
+      "series_aliases": [],
+      "rating_key": "236524",
+      "title": "Adapt or Die"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "episode": 7,
+      "id": "marvel-0421",
+      "series_aliases": [],
+      "rating_key": "237106",
+      "title": "The Totally Excellent Adventures of Mack and The D"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "episode": 8,
+      "id": "marvel-0422",
+      "series_aliases": [],
+      "rating_key": "236523",
+      "title": "After, Before"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "episode": 9,
+      "id": "marvel-0423",
+      "series_aliases": [],
+      "rating_key": "236525",
+      "title": "As I Have Always Been"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "episode": 10,
+      "id": "marvel-0424",
+      "series_aliases": [],
+      "rating_key": "236526",
+      "title": "Stolen"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "episode": 11,
+      "id": "marvel-0425",
+      "series_aliases": [],
+      "rating_key": "236527",
+      "title": "Brand New Day"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "episode": 12,
+      "id": "marvel-0426",
+      "series_aliases": [],
+      "rating_key": "237107",
+      "title": "The End Is at Hand"
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel's Agents of S.H.I.E.L.D.",
+      "season": 7,
+      "episode": 13,
+      "id": "marvel-0427",
+      "series_aliases": [],
+      "rating_key": "237108",
+      "title": "What We're Fighting For"
+    },
+    {
+      "kind": "episode",
+      "series": "Helstrom",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0428",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Helstrom",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0429",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Helstrom",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0430",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Helstrom",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0431",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Helstrom",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0432",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Helstrom",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0433",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Helstrom",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0434",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Helstrom",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0435",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Helstrom",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0436",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Helstrom",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0437",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "id": "marvel-0438",
+      "rating_key": "180202"
+    },
+    {
+      "kind": "episode",
+      "series": "WandaVision",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0439",
+      "series_aliases": [],
+      "rating_key": "236722",
+      "title": "Episode 1"
+    },
+    {
+      "kind": "episode",
+      "series": "WandaVision",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0440",
+      "series_aliases": [],
+      "rating_key": "236723",
+      "title": "Episode 2"
+    },
+    {
+      "kind": "episode",
+      "series": "WandaVision",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0441",
+      "series_aliases": [],
+      "rating_key": "236724",
+      "title": "Episode 3"
+    },
+    {
+      "kind": "episode",
+      "series": "WandaVision",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0442",
+      "series_aliases": [],
+      "rating_key": "236725",
+      "title": "Episode 4"
+    },
+    {
+      "kind": "episode",
+      "series": "WandaVision",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0443",
+      "series_aliases": [],
+      "rating_key": "236726",
+      "title": "Episode 5"
+    },
+    {
+      "kind": "episode",
+      "series": "WandaVision",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0444",
+      "series_aliases": [],
+      "rating_key": "236727",
+      "title": "Episode 6"
+    },
+    {
+      "kind": "episode",
+      "series": "WandaVision",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0445",
+      "series_aliases": [],
+      "rating_key": "236728",
+      "title": "Episode 7"
+    },
+    {
+      "kind": "episode",
+      "series": "WandaVision",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0446",
+      "series_aliases": [],
+      "rating_key": "236729",
+      "title": "Episode 8"
+    },
+    {
+      "kind": "episode",
+      "series": "WandaVision",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0447",
+      "series_aliases": [],
+      "rating_key": "236730",
+      "title": "Episode 9"
+    },
+    {
+      "kind": "episode",
+      "series": "Loki",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0448",
+      "series_aliases": [],
+      "rating_key": "137308",
+      "title": "Glorious Purpose"
+    },
+    {
+      "kind": "episode",
+      "series": "Loki",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0449",
+      "series_aliases": [],
+      "rating_key": "137304",
+      "title": "The Variant"
+    },
+    {
+      "kind": "episode",
+      "series": "Loki",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0450",
+      "series_aliases": [],
+      "rating_key": "137305",
+      "title": "Lamentis"
+    },
+    {
+      "kind": "episode",
+      "series": "Loki",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0451",
+      "series_aliases": [],
+      "rating_key": "137249",
+      "title": "The Nexus Event"
+    },
+    {
+      "kind": "episode",
+      "series": "Loki",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0452",
+      "series_aliases": [],
+      "rating_key": "137306",
+      "title": "Journey into Mystery"
+    },
+    {
+      "kind": "episode",
+      "series": "Loki",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0453",
+      "series_aliases": [],
+      "rating_key": "137307",
+      "title": "For All Time. Always."
+    },
+    {
+      "kind": "episode",
+      "series": "Loki",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0454",
+      "series_aliases": [],
+      "rating_key": "137283",
+      "title": "Ouroboros"
+    },
+    {
+      "kind": "episode",
+      "series": "Loki",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0455",
+      "series_aliases": [],
+      "rating_key": "137383",
+      "title": "Breaking Brad"
+    },
+    {
+      "kind": "episode",
+      "series": "Loki",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0456",
+      "series_aliases": [],
+      "rating_key": "137556",
+      "title": "1893"
+    },
+    {
+      "kind": "episode",
+      "series": "Loki",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0457",
+      "series_aliases": [],
+      "rating_key": "137773",
+      "title": "Heart of the TVA"
+    },
+    {
+      "kind": "episode",
+      "series": "Loki",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0458",
+      "series_aliases": [],
+      "rating_key": "137820",
+      "title": "Science/Fiction"
+    },
+    {
+      "kind": "episode",
+      "series": "Loki",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0459",
+      "series_aliases": [],
+      "rating_key": "138059",
+      "title": "Glorious Purpose"
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0460",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0461",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0462",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0463",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0464",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0465",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0466",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0467",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0468",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel Zombies",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0469",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel Zombies",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0470",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel Zombies",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0471",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Marvel Zombies",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0472",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0473",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0474",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0475",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0476",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0477",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0478",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0479",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0480",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0481",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 3,
+      "episode": 1,
+      "id": "marvel-0482",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 3,
+      "episode": 2,
+      "id": "marvel-0483",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 3,
+      "episode": 3,
+      "id": "marvel-0484",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 3,
+      "episode": 4,
+      "id": "marvel-0485",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 3,
+      "episode": 5,
+      "id": "marvel-0486",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 3,
+      "episode": 6,
+      "id": "marvel-0487",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 3,
+      "episode": 7,
+      "id": "marvel-0488",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "What If...?",
+      "season": 3,
+      "episode": 8,
+      "id": "marvel-0489",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0490",
+      "series_aliases": [],
+      "rating_key": "165476",
+      "title": "Night of the Sentinels (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0491",
+      "series_aliases": [],
+      "rating_key": "165477",
+      "title": "Night of the Sentinels (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0492",
+      "series_aliases": [],
+      "rating_key": "165478",
+      "title": "Enter Magneto"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0493",
+      "series_aliases": [],
+      "rating_key": "165479",
+      "title": "Deadly Reunions"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0494",
+      "series_aliases": [],
+      "rating_key": "165480",
+      "title": "Captive Hearts"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0495",
+      "series_aliases": [],
+      "rating_key": "165481",
+      "title": "Cold Vengeance"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0496",
+      "series_aliases": [],
+      "rating_key": "165482",
+      "title": "Slave Island"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0497",
+      "series_aliases": [],
+      "rating_key": "165483",
+      "title": "The Cure"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0498",
+      "series_aliases": [],
+      "rating_key": "165484",
+      "title": "Come the Apocalypse"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0499",
+      "series_aliases": [],
+      "rating_key": "165485",
+      "title": "The Unstoppable Juggernaut"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 1,
+      "episode": 11,
+      "id": "marvel-0500",
+      "series_aliases": [],
+      "rating_key": "165486",
+      "title": "Days of Future Past (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 1,
+      "episode": 12,
+      "id": "marvel-0501",
+      "series_aliases": [],
+      "rating_key": "165487",
+      "title": "Days of Future Past (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 1,
+      "episode": 13,
+      "id": "marvel-0502",
+      "series_aliases": [],
+      "rating_key": "165488",
+      "title": "The Final Decision"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0503",
+      "series_aliases": [],
+      "rating_key": "231225",
+      "title": "Till Death Do Us Part (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0504",
+      "series_aliases": [],
+      "rating_key": "165959",
+      "title": "Till Death Do Us Part (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0505",
+      "series_aliases": [],
+      "rating_key": "165960",
+      "title": "Whatever It Takes"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0506",
+      "series_aliases": [],
+      "rating_key": "165961",
+      "title": "Red Dawn"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0507",
+      "series_aliases": [],
+      "rating_key": "165962",
+      "title": "Repo Man"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0508",
+      "series_aliases": [],
+      "rating_key": "165963",
+      "title": "X-Ternally Yours"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0509",
+      "series_aliases": [],
+      "rating_key": "165964",
+      "title": "Time Fugitives (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0510",
+      "series_aliases": [],
+      "rating_key": "165965",
+      "title": "Time Fugitives (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0511",
+      "series_aliases": [],
+      "rating_key": "165966",
+      "title": "A Rogue's Tale"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 2,
+      "episode": 10,
+      "id": "marvel-0512",
+      "series_aliases": [],
+      "rating_key": "165967",
+      "title": "Beauty & the Beast"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 2,
+      "episode": 11,
+      "id": "marvel-0513",
+      "series_aliases": [],
+      "rating_key": "165968",
+      "title": "Mojovision"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 2,
+      "episode": 12,
+      "id": "marvel-0514",
+      "series_aliases": [],
+      "rating_key": "165969",
+      "title": "Reunion (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 2,
+      "episode": 13,
+      "id": "marvel-0515",
+      "series_aliases": [],
+      "rating_key": "165970",
+      "title": "Reunion (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 1,
+      "id": "marvel-0516",
+      "series_aliases": [],
+      "rating_key": "165998",
+      "title": "Out of the Past (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 2,
+      "id": "marvel-0517",
+      "series_aliases": [],
+      "rating_key": "165999",
+      "title": "Out of the Past (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 3,
+      "id": "marvel-0518",
+      "series_aliases": [],
+      "rating_key": "166000",
+      "title": "The Phoenix Saga: Sacrifice (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 4,
+      "id": "marvel-0519",
+      "series_aliases": [],
+      "rating_key": "166001",
+      "title": "The Phoenix Saga: The Dark Shroud (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 5,
+      "id": "marvel-0520",
+      "series_aliases": [],
+      "rating_key": "166002",
+      "title": "The Phoenix Saga: Cry of the Banshee (3)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 6,
+      "id": "marvel-0521",
+      "series_aliases": [],
+      "rating_key": "166003",
+      "title": "The Phoenix Saga: The Starjammers (4)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 7,
+      "id": "marvel-0522",
+      "series_aliases": [],
+      "rating_key": "166004",
+      "title": "The Phoenix Saga: Child of Light (5)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 4,
+      "id": "marvel-0523",
+      "series_aliases": [],
+      "rating_key": "166068",
+      "title": "No Mutant Is an Island"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 10,
+      "id": "marvel-0524",
+      "series_aliases": [],
+      "rating_key": "236278",
+      "title": "Obsession"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 5,
+      "id": "marvel-0525",
+      "series_aliases": [],
+      "rating_key": "166069",
+      "title": "Longshot"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 15,
+      "id": "marvel-0526",
+      "series_aliases": [],
+      "rating_key": "166012",
+      "title": "Cold Comfort"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 8,
+      "id": "marvel-0527",
+      "series_aliases": [],
+      "rating_key": "236276",
+      "title": "Savage Land, Strange Heart (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 9,
+      "id": "marvel-0528",
+      "series_aliases": [],
+      "rating_key": "236277",
+      "title": "Savage Land, Strange Heart (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 11,
+      "id": "marvel-0529",
+      "series_aliases": [],
+      "rating_key": "166008",
+      "title": "The Dark Phoenix: Dazzled (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 12,
+      "id": "marvel-0530",
+      "series_aliases": [],
+      "rating_key": "166009",
+      "title": "The Dark Phoenix: The Inner Circle (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 13,
+      "id": "marvel-0531",
+      "series_aliases": [],
+      "rating_key": "166010",
+      "title": "The Dark Phoenix: The Dark Phoenix (3)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 14,
+      "id": "marvel-0532",
+      "series_aliases": [],
+      "rating_key": "166011",
+      "title": "The Dark Phoenix: The Fate of the Phoenix (4)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 16,
+      "id": "marvel-0533",
+      "series_aliases": [],
+      "rating_key": "166013",
+      "title": "Orphan's End"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 14,
+      "id": "marvel-0534",
+      "series_aliases": [],
+      "rating_key": "166052",
+      "title": "Love in Vain"
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0535",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0536",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0537",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0538",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0539",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0540",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0541",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0542",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0543",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0544",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 1,
+      "episode": 11,
+      "id": "marvel-0545",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 1,
+      "episode": 12,
+      "id": "marvel-0546",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 1,
+      "episode": 13,
+      "id": "marvel-0547",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 17,
+      "id": "marvel-0548",
+      "series_aliases": [],
+      "rating_key": "166014",
+      "title": "The Juggernaut Returns"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 3,
+      "id": "marvel-0549",
+      "series_aliases": [],
+      "rating_key": "166067",
+      "title": "A Deal with the Devil"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 6,
+      "id": "marvel-0550",
+      "series_aliases": [],
+      "rating_key": "166044",
+      "title": "Sanctuary (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 7,
+      "id": "marvel-0551",
+      "series_aliases": [],
+      "rating_key": "166045",
+      "title": "Sanctuary (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 16,
+      "id": "marvel-0552",
+      "series_aliases": [],
+      "rating_key": "236271",
+      "title": "Xavier Remembers"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 3,
+      "id": "marvel-0553",
+      "series_aliases": [],
+      "rating_key": "166041",
+      "title": "Courage"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 15,
+      "id": "marvel-0554",
+      "series_aliases": [],
+      "rating_key": "236270",
+      "title": "Secrets, Not Long Buried"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 18,
+      "id": "marvel-0555",
+      "series_aliases": [],
+      "rating_key": "166015",
+      "title": "Nightcrawler"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 1,
+      "id": "marvel-0556",
+      "series_aliases": [],
+      "rating_key": "166039",
+      "title": "One Man's Worth (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 2,
+      "id": "marvel-0557",
+      "series_aliases": [],
+      "rating_key": "166040",
+      "title": "One Man's Worth (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 4,
+      "id": "marvel-0558",
+      "series_aliases": [],
+      "rating_key": "166042",
+      "title": "Proteus (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 5,
+      "id": "marvel-0559",
+      "series_aliases": [],
+      "rating_key": "166043",
+      "title": "Proteus (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 17,
+      "id": "marvel-0560",
+      "series_aliases": [],
+      "rating_key": "236272",
+      "title": "Family Ties"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 6,
+      "id": "marvel-0561",
+      "series_aliases": [],
+      "rating_key": "166070",
+      "title": "Bloodlines"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 13,
+      "id": "marvel-0562",
+      "series_aliases": [],
+      "rating_key": "166051",
+      "title": "The Lotus and the Steel"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 3,
+      "episode": 19,
+      "id": "marvel-0563",
+      "series_aliases": [],
+      "rating_key": "166016",
+      "title": "Weapon X, Lies, and Video Tape"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 12,
+      "id": "marvel-0564",
+      "series_aliases": [],
+      "rating_key": "166050",
+      "title": "Have Yourself a Morlock Little X-Mas"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 8,
+      "id": "marvel-0565",
+      "series_aliases": [],
+      "rating_key": "166046",
+      "title": "Beyond Good and Evil (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 9,
+      "id": "marvel-0566",
+      "series_aliases": [],
+      "rating_key": "166047",
+      "title": "Beyond Good and Evil (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 10,
+      "id": "marvel-0567",
+      "series_aliases": [],
+      "rating_key": "166048",
+      "title": "Beyond Good and Evil (3)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 4,
+      "episode": 11,
+      "id": "marvel-0568",
+      "series_aliases": [],
+      "rating_key": "166049",
+      "title": "Beyond Good and Evil (4)"
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0569",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0570",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0571",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0572",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0573",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0574",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0575",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0576",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0577",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 10,
+      "id": "marvel-0578",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 11,
+      "id": "marvel-0579",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 12,
+      "id": "marvel-0580",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 13,
+      "id": "marvel-0581",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 2,
+      "episode": 14,
+      "id": "marvel-0582",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 1,
+      "id": "marvel-0583",
+      "series_aliases": [],
+      "rating_key": "166065",
+      "title": "The Phalanx Covenant (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 2,
+      "id": "marvel-0584",
+      "series_aliases": [],
+      "rating_key": "166066",
+      "title": "The Phalanx Covenant (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 7,
+      "id": "marvel-0585",
+      "series_aliases": [],
+      "rating_key": "166071",
+      "title": "Storm Front (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 8,
+      "id": "marvel-0586",
+      "series_aliases": [],
+      "rating_key": "166072",
+      "title": "Storm Front (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 10,
+      "id": "marvel-0587",
+      "series_aliases": [],
+      "rating_key": "166074",
+      "title": "The Fifth Horseman"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 9,
+      "id": "marvel-0588",
+      "series_aliases": [],
+      "rating_key": "166073",
+      "title": "Jubilee's Fairytale Theatre"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 11,
+      "id": "marvel-0589",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 12,
+      "id": "marvel-0590",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 13,
+      "id": "marvel-0591",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men: The Animated Series",
+      "season": 5,
+      "episode": 14,
+      "id": "marvel-0592",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 1,
+      "id": "marvel-0593",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 2,
+      "id": "marvel-0594",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 3,
+      "id": "marvel-0595",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 4,
+      "id": "marvel-0596",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 5,
+      "id": "marvel-0597",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 6,
+      "id": "marvel-0598",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 7,
+      "id": "marvel-0599",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 8,
+      "id": "marvel-0600",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 9,
+      "id": "marvel-0601",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 10,
+      "id": "marvel-0602",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 11,
+      "id": "marvel-0603",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 12,
+      "id": "marvel-0604",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 13,
+      "id": "marvel-0605",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 3,
+      "episode": 14,
+      "id": "marvel-0606",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 4,
+      "episode": 1,
+      "id": "marvel-0607",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 4,
+      "episode": 2,
+      "id": "marvel-0608",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 4,
+      "episode": 3,
+      "id": "marvel-0609",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 4,
+      "episode": 4,
+      "id": "marvel-0610",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 4,
+      "episode": 5,
+      "id": "marvel-0611",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 4,
+      "episode": 6,
+      "id": "marvel-0612",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 4,
+      "episode": 7,
+      "id": "marvel-0613",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 4,
+      "episode": 8,
+      "id": "marvel-0614",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 4,
+      "episode": 9,
+      "id": "marvel-0615",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 4,
+      "episode": 10,
+      "id": "marvel-0616",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 4,
+      "episode": 11,
+      "id": "marvel-0617",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 5,
+      "episode": 1,
+      "id": "marvel-0618",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 5,
+      "episode": 2,
+      "id": "marvel-0619",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 5,
+      "episode": 3,
+      "id": "marvel-0620",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 5,
+      "episode": 4,
+      "id": "marvel-0621",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 5,
+      "episode": 5,
+      "id": "marvel-0622",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 5,
+      "episode": 6,
+      "id": "marvel-0623",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 5,
+      "episode": 7,
+      "id": "marvel-0624",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 5,
+      "episode": 8,
+      "id": "marvel-0625",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 5,
+      "episode": 9,
+      "id": "marvel-0626",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 5,
+      "episode": 10,
+      "id": "marvel-0627",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 5,
+      "episode": 11,
+      "id": "marvel-0628",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 5,
+      "episode": 12,
+      "id": "marvel-0629",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Man",
+      "season": 5,
+      "episode": 13,
+      "id": "marvel-0630",
+      "series_aliases": [
+        "Spider-Man: The Animated Series"
+      ],
+      "series_year": 1994
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0631",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ],
+      "rating_key": "164536",
+      "title": "To Me, My X-Men"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0632",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ],
+      "rating_key": "164537",
+      "title": "Mutant Liberation Begins"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0633",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ],
+      "rating_key": "164635",
+      "title": "Fire Made Flesh"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0634",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ],
+      "rating_key": "165349",
+      "title": "Motendo / Lifedeath (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0635",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ],
+      "rating_key": "166203",
+      "title": "Remember It"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0636",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ],
+      "rating_key": "167024",
+      "title": "Lifedeath (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0637",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ],
+      "rating_key": "168261",
+      "title": "Bright Eyes"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0638",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ],
+      "rating_key": "168642",
+      "title": "Tolerance Is Extinction (1)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0639",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ],
+      "rating_key": "169320",
+      "title": "Tolerance Is Extinction (2)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0640",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ],
+      "rating_key": "181485",
+      "title": "Tolerance Is Extinction (3)"
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0641",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0642",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0643",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0644",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0645",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0646",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0647",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0648",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ]
+    },
+    {
+      "kind": "episode",
+      "series": "X-Men ’97",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0649",
+      "series_aliases": [
+        "X-Men ’97",
+        "X-Men '97"
+      ]
+    },
+    {
+      "kind": "movie",
+      "title": "X-Men: First Class",
+      "year": 2011,
+      "id": "marvel-0650",
+      "rating_key": "180271"
+    },
+    {
+      "kind": "movie",
+      "title": "X-Men Origins: Wolverine",
+      "year": 2009,
+      "id": "marvel-0651",
+      "rating_key": "52301"
+    },
+    {
+      "kind": "movie",
+      "title": "X-Men",
+      "year": 2000,
+      "id": "marvel-0652",
+      "rating_key": "180234"
+    },
+    {
+      "kind": "movie",
+      "title": "X2: X-Men United",
+      "year": 2003,
+      "id": "marvel-0653",
+      "rating_key": "180279"
+    },
+    {
+      "kind": "movie",
+      "title": "X-Men: The Last Stand",
+      "year": 2006,
+      "id": "marvel-0654",
+      "rating_key": "180204"
+    },
+    {
+      "kind": "movie",
+      "title": "The Wolverine",
+      "year": 2013,
+      "id": "marvel-0655",
+      "rating_key": "184379"
+    },
+    {
+      "kind": "movie",
+      "title": "X-Men: Days of Future Past",
+      "year": 2014,
+      "id": "marvel-0656",
+      "rating_key": "176180"
+    },
+    {
+      "kind": "movie",
+      "title": "X-Men: Apocalypse",
+      "year": 2016,
+      "id": "marvel-0657",
+      "rating_key": "176230"
+    },
+    {
+      "kind": "movie",
+      "title": "X-Men: Dark Phoenix",
+      "year": 2019,
+      "id": "marvel-0658",
+      "rating_key": "176439"
+    },
+    {
+      "kind": "movie",
+      "title": "Deadpool",
+      "year": 2016,
+      "id": "marvel-0659",
+      "rating_key": "192414"
+    },
+    {
+      "kind": "movie",
+      "title": "Deadpool: No Good Deed",
+      "year": 2017,
+      "id": "marvel-0660"
+    },
+    {
+      "kind": "movie",
+      "title": "The New Mutants",
+      "year": 2020,
+      "id": "marvel-0661",
+      "rating_key": "245388"
+    },
+    {
+      "kind": "movie",
+      "title": "Deadpool 2",
+      "year": 2018,
+      "id": "marvel-0662",
+      "rating_key": "185383"
+    },
+    {
+      "kind": "movie",
+      "title": "Logan",
+      "year": 2017,
+      "id": "marvel-0663",
+      "rating_key": "192443"
+    },
+    {
+      "kind": "movie",
+      "title": "Blade",
+      "year": 1998,
+      "id": "marvel-0664",
+      "rating_key": "214250"
+    },
+    {
+      "kind": "movie",
+      "title": "Blade II",
+      "year": 2002,
+      "id": "marvel-0665",
+      "rating_key": "241946"
+    },
+    {
+      "kind": "movie",
+      "title": "Blade: Trinity",
+      "year": 2004,
+      "id": "marvel-0666",
+      "rating_key": "241933"
+    },
+    {
+      "kind": "episode",
+      "series": "Blade: The Series",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0667",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Blade: The Series",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0668",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Blade: The Series",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0669",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Blade: The Series",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0670",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Blade: The Series",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0671",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Blade: The Series",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0672",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Blade: The Series",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0673",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Blade: The Series",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0674",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Blade: The Series",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0675",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Blade: The Series",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0676",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Blade: The Series",
+      "season": 1,
+      "episode": 11,
+      "id": "marvel-0677",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Blade: The Series",
+      "season": 1,
+      "episode": 12,
+      "id": "marvel-0678",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Daredevil",
+      "year": 2003,
+      "id": "marvel-0679"
+    },
+    {
+      "kind": "movie",
+      "title": "Elektra",
+      "year": 2005,
+      "id": "marvel-0680"
+    },
+    {
+      "kind": "movie",
+      "title": "Fantastic Four",
+      "year": 2005,
+      "id": "marvel-0681",
+      "rating_key": "180059"
+    },
+    {
+      "kind": "movie",
+      "title": "Fantastic Four: Rise of the Silver Surfer",
+      "year": 2007,
+      "id": "marvel-0682",
+      "rating_key": "178673"
+    },
+    {
+      "kind": "movie",
+      "title": "Fantastic Four",
+      "year": 2015,
+      "id": "marvel-0683",
+      "rating_key": "245401"
+    },
+    {
+      "kind": "movie",
+      "title": "The Fantastic Four: First Steps",
+      "year": 2025,
+      "id": "marvel-0684",
+      "rating_key": "242798"
+    },
+    {
+      "kind": "movie",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021,
+      "id": "marvel-0685",
+      "rating_key": "180362"
+    },
+    {
+      "kind": "movie",
+      "title": "Deadpool & Wolverine",
+      "year": 2024,
+      "id": "marvel-0686",
+      "rating_key": "227157"
+    },
+    {
+      "kind": "episode",
+      "series": "The Falcon and the Winter Soldier",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0687",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Falcon and the Winter Soldier",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0688",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Falcon and the Winter Soldier",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0689",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Falcon and the Winter Soldier",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0690",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Falcon and the Winter Soldier",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0691",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Falcon and the Winter Soldier",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0692",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Noir",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0693",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Noir",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0694",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Noir",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0695",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Noir",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0696",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Noir",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0697",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Noir",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0698",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Noir",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0699",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Spider-Noir",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0700",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "id": "marvel-0701",
+      "rating_key": "176714"
+    },
+    {
+      "kind": "movie",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "id": "marvel-0702",
+      "rating_key": "176231"
+    },
+    {
+      "kind": "episode",
+      "series": "Your Friendly Neighborhood Spider-Man",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0703",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Your Friendly Neighborhood Spider-Man",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0704",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Your Friendly Neighborhood Spider-Man",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0705",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Your Friendly Neighborhood Spider-Man",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0706",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Your Friendly Neighborhood Spider-Man",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0707",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Your Friendly Neighborhood Spider-Man",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0708",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Your Friendly Neighborhood Spider-Man",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0709",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Your Friendly Neighborhood Spider-Man",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0710",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Your Friendly Neighborhood Spider-Man",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0711",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Your Friendly Neighborhood Spider-Man",
+      "season": 1,
+      "episode": 10,
+      "id": "marvel-0712",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Spider-Man",
+      "year": 2002,
+      "id": "marvel-0713",
+      "rating_key": "176721"
+    },
+    {
+      "kind": "movie",
+      "title": "Spider-Man 2",
+      "year": 2004,
+      "id": "marvel-0714",
+      "rating_key": "177383"
+    },
+    {
+      "kind": "movie",
+      "title": "Spider-Man 3",
+      "year": 2007,
+      "id": "marvel-0715",
+      "rating_key": "180280"
+    },
+    {
+      "kind": "movie",
+      "title": "The Amazing Spider-Man",
+      "year": 2012,
+      "id": "marvel-0716",
+      "rating_key": "178916"
+    },
+    {
+      "kind": "movie",
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "id": "marvel-0717",
+      "rating_key": "178914"
+    },
+    {
+      "kind": "movie",
+      "title": "Madame Web",
+      "year": 2024,
+      "id": "marvel-0718",
+      "rating_key": "182952"
+    },
+    {
+      "kind": "movie",
+      "title": "Kraven the Hunter",
+      "year": 2024,
+      "id": "marvel-0719",
+      "rating_key": "232894"
+    },
+    {
+      "kind": "movie",
+      "title": "Venom",
+      "year": 2018,
+      "id": "marvel-0720",
+      "rating_key": "188468"
+    },
+    {
+      "kind": "movie",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021,
+      "id": "marvel-0721",
+      "rating_key": "192446"
+    },
+    {
+      "kind": "movie",
+      "title": "Peter’s To-Do List",
+      "year": 2019,
+      "id": "marvel-0722"
+    },
+    {
+      "kind": "movie",
+      "title": "Spider-Man: Far from Home",
+      "year": 2019,
+      "id": "marvel-0723",
+      "rating_key": "180403"
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0724",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0725",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0726",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0727",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0728",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0729",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0730",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0731",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0732",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0733",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0734",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0735",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0736",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0737",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 2,
+      "episode": 9,
+      "id": "marvel-0738",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 2,
+      "episode": 10,
+      "id": "marvel-0739",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 2,
+      "episode": 11,
+      "id": "marvel-0740",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 2,
+      "episode": 12,
+      "id": "marvel-0741",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 2,
+      "episode": 13,
+      "id": "marvel-0742",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "id": "marvel-0743",
+      "rating_key": "180298"
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 4,
+      "episode": 1,
+      "id": "marvel-0744",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 4,
+      "episode": 2,
+      "id": "marvel-0745",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 4,
+      "episode": 3,
+      "id": "marvel-0746",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 4,
+      "episode": 4,
+      "id": "marvel-0747",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 4,
+      "episode": 5,
+      "id": "marvel-0748",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 4,
+      "episode": 6,
+      "id": "marvel-0749",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Venom: The Last Dance",
+      "year": 2024,
+      "id": "marvel-0750",
+      "rating_key": "232531"
+    },
+    {
+      "kind": "movie",
+      "title": "Morbius",
+      "year": 2022,
+      "id": "marvel-0751",
+      "rating_key": "176542"
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 3,
+      "episode": 1,
+      "id": "marvel-0752",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 3,
+      "episode": 2,
+      "id": "marvel-0753",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 3,
+      "episode": 3,
+      "id": "marvel-0754",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "The Daily Bugle",
+      "season": 3,
+      "episode": 4,
+      "id": "marvel-0755",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Eternals",
+      "year": 2021,
+      "id": "marvel-0756",
+      "rating_key": "185386"
+    },
+    {
+      "kind": "episode",
+      "series": "Hawkeye",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0757",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Hawkeye",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0758",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Hawkeye",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0759",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Hawkeye",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0760",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Hawkeye",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0761",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Hawkeye",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0762",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022,
+      "id": "marvel-0763",
+      "rating_key": "176179"
+    },
+    {
+      "kind": "episode",
+      "series": "Moon Knight",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0764",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Moon Knight",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0765",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Moon Knight",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0766",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Moon Knight",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0767",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Moon Knight",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0768",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Moon Knight",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0769",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Thor: Love and Thunder",
+      "year": 2022,
+      "id": "marvel-0770",
+      "rating_key": "178737"
+    },
+    {
+      "kind": "movie",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022,
+      "id": "marvel-0771",
+      "rating_key": "176448"
+    },
+    {
+      "kind": "episode",
+      "series": "Echo",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0772",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Echo",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0773",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Echo",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0774",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Echo",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0775",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Echo",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0776",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "She-Hulk: Attorney at Law",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0777",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "She-Hulk: Attorney at Law",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0778",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "She-Hulk: Attorney at Law",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0779",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "She-Hulk: Attorney at Law",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0780",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "She-Hulk: Attorney at Law",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0781",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "She-Hulk: Attorney at Law",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0782",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "She-Hulk: Attorney at Law",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0783",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "She-Hulk: Attorney at Law",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0784",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "She-Hulk: Attorney at Law",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0785",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Ms. Marvel",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0786",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Ms. Marvel",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0787",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Ms. Marvel",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0788",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Ms. Marvel",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0789",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Ms. Marvel",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0790",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Ms. Marvel",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0791",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Ironheart",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0792",
+      "series_aliases": [],
+      "rating_key": "236745",
+      "title": "Take Me Home"
+    },
+    {
+      "kind": "episode",
+      "series": "Ironheart",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0793",
+      "series_aliases": [],
+      "rating_key": "236746",
+      "title": "Will the Real Natalie Please Stand Up?"
+    },
+    {
+      "kind": "episode",
+      "series": "Ironheart",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0794",
+      "series_aliases": [],
+      "rating_key": "236749",
+      "title": "We in Danger, Girl"
+    },
+    {
+      "kind": "episode",
+      "series": "Ironheart",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0795",
+      "series_aliases": [],
+      "rating_key": "236866",
+      "title": "Bad Magic"
+    },
+    {
+      "kind": "episode",
+      "series": "Ironheart",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0796",
+      "series_aliases": [],
+      "rating_key": "236867",
+      "title": "Karma's a Glitch"
+    },
+    {
+      "kind": "episode",
+      "series": "Ironheart",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0797",
+      "series_aliases": [],
+      "rating_key": "236868",
+      "title": "The Past Is the Past"
+    },
+    {
+      "kind": "movie",
+      "title": "Werewolf by Night",
+      "year": 2022,
+      "id": "marvel-0798"
+    },
+    {
+      "kind": "movie",
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "year": 2022,
+      "id": "marvel-0799"
+    },
+    {
+      "kind": "movie",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023,
+      "id": "marvel-0800",
+      "rating_key": "177399"
+    },
+    {
+      "kind": "movie",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023,
+      "id": "marvel-0801",
+      "rating_key": "176723"
+    },
+    {
+      "kind": "episode",
+      "series": "Secret Invasion",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0802",
+      "series_aliases": [],
+      "rating_key": "131312",
+      "title": "Resurrection"
+    },
+    {
+      "kind": "episode",
+      "series": "Secret Invasion",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0803",
+      "series_aliases": [],
+      "rating_key": "131329",
+      "title": "Promises"
+    },
+    {
+      "kind": "episode",
+      "series": "Secret Invasion",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0804",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Secret Invasion",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0805",
+      "series_aliases": [],
+      "rating_key": "131656",
+      "title": "Beloved"
+    },
+    {
+      "kind": "episode",
+      "series": "Secret Invasion",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0806",
+      "series_aliases": [],
+      "rating_key": "132494",
+      "title": "Harvest"
+    },
+    {
+      "kind": "episode",
+      "series": "Secret Invasion",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0807",
+      "series_aliases": [],
+      "rating_key": "132635",
+      "title": "Home"
+    },
+    {
+      "kind": "movie",
+      "title": "The Marvels",
+      "year": 2023,
+      "id": "marvel-0808",
+      "rating_key": "183912"
+    },
+    {
+      "kind": "episode",
+      "series": "Agatha All Along",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0809",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Agatha All Along",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0810",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Agatha All Along",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0811",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Agatha All Along",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0812",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Agatha All Along",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0813",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Agatha All Along",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0814",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Agatha All Along",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0815",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Agatha All Along",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0816",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Agatha All Along",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0817",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0818",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0819",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0820",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0821",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0822",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0823",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0824",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0825",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 1,
+      "episode": 9,
+      "id": "marvel-0826",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Captain America: Brave New World",
+      "year": 2025,
+      "id": "marvel-0827",
+      "rating_key": "235247"
+    },
+    {
+      "kind": "movie",
+      "title": "Thunderbolts*",
+      "year": 2025,
+      "id": "marvel-0828",
+      "rating_key": "236703"
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 2,
+      "episode": 1,
+      "id": "marvel-0829",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 2,
+      "episode": 2,
+      "id": "marvel-0830",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 2,
+      "episode": 3,
+      "id": "marvel-0831",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 2,
+      "episode": 4,
+      "id": "marvel-0832",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 2,
+      "episode": 5,
+      "id": "marvel-0833",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 2,
+      "episode": 6,
+      "id": "marvel-0834",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 2,
+      "episode": 7,
+      "id": "marvel-0835",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Daredevil: Born Again",
+      "season": 2,
+      "episode": 8,
+      "id": "marvel-0836",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "The Punisher: One Last Kill",
+      "year": 2026,
+      "id": "marvel-0837"
+    },
+    {
+      "kind": "episode",
+      "series": "Wonder Man",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0838",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Wonder Man",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0839",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Wonder Man",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0840",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Wonder Man",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0841",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Wonder Man",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0842",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Wonder Man",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0843",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Wonder Man",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0844",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "Wonder Man",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0845",
+      "series_aliases": []
+    },
+    {
+      "kind": "movie",
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "id": "marvel-0846"
+    },
+    {
+      "kind": "episode",
+      "series": "VisionQuest",
+      "season": 1,
+      "episode": 1,
+      "id": "marvel-0847",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "VisionQuest",
+      "season": 1,
+      "episode": 2,
+      "id": "marvel-0848",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "VisionQuest",
+      "season": 1,
+      "episode": 3,
+      "id": "marvel-0849",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "VisionQuest",
+      "season": 1,
+      "episode": 4,
+      "id": "marvel-0850",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "VisionQuest",
+      "season": 1,
+      "episode": 5,
+      "id": "marvel-0851",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "VisionQuest",
+      "season": 1,
+      "episode": 6,
+      "id": "marvel-0852",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "VisionQuest",
+      "season": 1,
+      "episode": 7,
+      "id": "marvel-0853",
+      "series_aliases": []
+    },
+    {
+      "kind": "episode",
+      "series": "VisionQuest",
+      "season": 1,
+      "episode": 8,
+      "id": "marvel-0854",
+      "series_aliases": []
+    }
+  ]
+}

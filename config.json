@@ -1,0 +1,15 @@
+{
+  "sections": [6, 7, 9, 14],
+  "playlists": [
+    {
+      "manifest": "marvel.json",
+      "full": {"title": "Marvel Multiverse Marathon", "key": "245419"},
+      "remaining": {"title": "Marvel Multiverse Marathon (Remaining)"}
+    },
+    {
+      "manifest": "star-trek.json",
+      "full": {"title": "Star Trek (Full Guide Order)"},
+      "remaining": {"title": "Star Trek (Progress)", "key": "231363"}
+    }
+  ]
+}

@@ -1,0 +1,2442 @@
+[
+  {
+    "kind": "movie",
+    "title": "Captain America: The First Avenger",
+    "year": 2011,
+    "rating_key": "176463"
+  },
+  {
+    "kind": "movie",
+    "title": "Marvel One-Shot: Agent Carter",
+    "year": 2013,
+    "rating_key": "176554"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agent Carter",
+    "season": 2,
+    "episode": 10,
+    "title": "Episode 10",
+    "rating_key": "245296"
+  },
+  {
+    "kind": "movie",
+    "title": "Captain Marvel",
+    "year": 2019,
+    "rating_key": "77591"
+  },
+  {
+    "kind": "movie",
+    "title": "Iron Man",
+    "year": 2008,
+    "rating_key": "176113"
+  },
+  {
+    "kind": "movie",
+    "title": "Iron Man 2",
+    "year": 2010,
+    "rating_key": "176064"
+  },
+  {
+    "kind": "movie",
+    "title": "The Incredible Hulk",
+    "year": 2008,
+    "rating_key": "180402"
+  },
+  {
+    "kind": "movie",
+    "title": "Thor",
+    "year": 2011,
+    "rating_key": "180424"
+  },
+  {
+    "kind": "movie",
+    "title": "Marvel One-Shot: The Consultant",
+    "year": 2011,
+    "rating_key": "245416"
+  },
+  {
+    "kind": "movie",
+    "title": "The Avengers",
+    "year": 2012,
+    "rating_key": "176124"
+  },
+  {
+    "kind": "movie",
+    "title": "Iron Man 3",
+    "year": 2013,
+    "rating_key": "176450"
+  },
+  {
+    "kind": "movie",
+    "title": "Marvel One-Shot: All Hail the King",
+    "year": 2014,
+    "rating_key": "245387"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 1,
+    "title": "Pilot",
+    "rating_key": "236600"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 2,
+    "title": "0-8-4",
+    "rating_key": "236601"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 3,
+    "title": "The Asset",
+    "rating_key": "236602"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 4,
+    "title": "Eye Spy",
+    "rating_key": "236603"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 5,
+    "title": "Girl in the Flower Dress",
+    "rating_key": "236604"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 6,
+    "title": "FZZT",
+    "rating_key": "237102"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 7,
+    "title": "The Hub",
+    "rating_key": "236606"
+  },
+  {
+    "kind": "movie",
+    "title": "Thor: The Dark World",
+    "year": 2013,
+    "rating_key": "176125"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 8,
+    "title": "The Well",
+    "rating_key": "236607"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 9,
+    "title": "Repairs",
+    "rating_key": "236608"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 10,
+    "title": "The Bridge",
+    "rating_key": "236609"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 11,
+    "title": "The Magical Place",
+    "rating_key": "236610"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 12,
+    "title": "Seeds",
+    "rating_key": "236611"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 13,
+    "title": "T.R.A.C.K.S.",
+    "rating_key": "236612"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 14,
+    "title": "T.A.H.I.T.I.",
+    "rating_key": "236613"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 15,
+    "title": "Yes Men",
+    "rating_key": "236614"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 16,
+    "title": "End of the Beginning",
+    "rating_key": "236615"
+  },
+  {
+    "kind": "movie",
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "rating_key": "176052"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 17,
+    "title": "Turn, Turn, Turn",
+    "rating_key": "236616"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 18,
+    "title": "Providence",
+    "rating_key": "236617"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 19,
+    "title": "The Only Light in the Darkness",
+    "rating_key": "236618"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 20,
+    "title": "Nothing Personal",
+    "rating_key": "236619"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 21,
+    "title": "Ragtag",
+    "rating_key": "236620"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 1,
+    "episode": 22,
+    "title": "Beginning of the End",
+    "rating_key": "236621"
+  },
+  {
+    "kind": "movie",
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "rating_key": "180425"
+  },
+  {
+    "kind": "movie",
+    "title": "Guardians of the Galaxy: Vol. 2",
+    "year": 2017,
+    "rating_key": "237468"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 1,
+    "title": "Episode 1",
+    "rating_key": "236554"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 2,
+    "title": "Episode 2",
+    "rating_key": "236555"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 3,
+    "title": "Episode 3",
+    "rating_key": "236556"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 4,
+    "title": "Episode 4",
+    "rating_key": "236557"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 5,
+    "title": "Episode 5",
+    "rating_key": "236558"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 6,
+    "title": "Episode 6",
+    "rating_key": "236559"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 7,
+    "title": "Episode 7",
+    "rating_key": "236560"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 8,
+    "title": "Episode 8",
+    "rating_key": "236561"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 9,
+    "title": "Episode 9",
+    "rating_key": "236562"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 10,
+    "title": "Episode 10",
+    "rating_key": "236563"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 11,
+    "title": "Episode 11",
+    "rating_key": "236564"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 12,
+    "title": "Episode 12",
+    "rating_key": "236565"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 13,
+    "title": "Episode 13",
+    "rating_key": "236566"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 14,
+    "title": "Episode 14",
+    "rating_key": "236567"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 15,
+    "title": "Episode 15",
+    "rating_key": "236568"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 16,
+    "title": "Episode 16",
+    "rating_key": "236569"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 17,
+    "title": "Episode 17",
+    "rating_key": "236570"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 18,
+    "title": "Episode 18",
+    "rating_key": "236571"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 19,
+    "title": "Episode 19",
+    "rating_key": "236572"
+  },
+  {
+    "kind": "movie",
+    "title": "Avengers: Age of Ultron",
+    "year": 2015,
+    "rating_key": "178005"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 20,
+    "title": "Episode 20",
+    "rating_key": "236573"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 21,
+    "title": "Episode 21",
+    "rating_key": "236574"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 2,
+    "episode": 22,
+    "title": "Episode 22",
+    "rating_key": "236575"
+  },
+  {
+    "kind": "movie",
+    "title": "Ant-Man",
+    "year": 2015,
+    "rating_key": "180201"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 1,
+    "title": "Episode 1",
+    "rating_key": "236499"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 2,
+    "title": "Episode 2",
+    "rating_key": "236500"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 3,
+    "title": "Episode 3",
+    "rating_key": "236501"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 4,
+    "title": "Episode 4",
+    "rating_key": "236502"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 5,
+    "title": "Episode 5",
+    "rating_key": "236503"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 6,
+    "title": "Episode 6",
+    "rating_key": "236504"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 7,
+    "title": "Episode 7",
+    "rating_key": "236505"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 8,
+    "title": "Episode 8",
+    "rating_key": "236506"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 9,
+    "title": "Episode 9",
+    "rating_key": "236507"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 10,
+    "title": "Episode 10",
+    "rating_key": "236508"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 11,
+    "title": "Episode 11",
+    "rating_key": "236509"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 12,
+    "title": "Episode 12",
+    "rating_key": "236510"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 13,
+    "title": "Episode 13",
+    "rating_key": "236511"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 14,
+    "title": "Episode 14",
+    "rating_key": "236512"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 15,
+    "title": "Episode 15",
+    "rating_key": "236513"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 16,
+    "title": "Episode 16",
+    "rating_key": "236514"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 17,
+    "title": "Episode 17",
+    "rating_key": "236515"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 18,
+    "title": "Episode 18",
+    "rating_key": "236516"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 19,
+    "title": "Episode 19",
+    "rating_key": "236517"
+  },
+  {
+    "kind": "movie",
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "rating_key": "176145"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 20,
+    "title": "Episode 20",
+    "rating_key": "236518"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 21,
+    "title": "Episode 21",
+    "rating_key": "236519"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 3,
+    "episode": 22,
+    "title": "Episode 22",
+    "rating_key": "236520"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 1,
+    "title": "Episode 1",
+    "rating_key": "236577"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 2,
+    "title": "Episode 2",
+    "rating_key": "236578"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 3,
+    "title": "Episode 3",
+    "rating_key": "236579"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 4,
+    "title": "Episode 4",
+    "rating_key": "236580"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 5,
+    "title": "Episode 5",
+    "rating_key": "236581"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 6,
+    "title": "Episode 6",
+    "rating_key": "236582"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 7,
+    "title": "Episode 7",
+    "rating_key": "236583"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 8,
+    "title": "Episode 8",
+    "rating_key": "236584"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 9,
+    "title": "Episode 9",
+    "rating_key": "236585"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 10,
+    "title": "Episode 10",
+    "rating_key": "236586"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 11,
+    "title": "Episode 11",
+    "rating_key": "236587"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 12,
+    "title": "Episode 12",
+    "rating_key": "236588"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 13,
+    "title": "Episode 13",
+    "rating_key": "236589"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 14,
+    "title": "Episode 14",
+    "rating_key": "236590"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 15,
+    "title": "Episode 15",
+    "rating_key": "236591"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 16,
+    "title": "Episode 16",
+    "rating_key": "236592"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 17,
+    "title": "Episode 17",
+    "rating_key": "236593"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 18,
+    "title": "Episode 18",
+    "rating_key": "236594"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 19,
+    "title": "Episode 19",
+    "rating_key": "236595"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 20,
+    "title": "Episode 20",
+    "rating_key": "236596"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 21,
+    "title": "Episode 21",
+    "rating_key": "236597"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 4,
+    "episode": 22,
+    "title": "Episode 22",
+    "rating_key": "236598"
+  },
+  {
+    "kind": "movie",
+    "title": "Spider-Man: Homecoming",
+    "year": 2017,
+    "rating_key": "180294"
+  },
+  {
+    "kind": "movie",
+    "title": "Black Widow",
+    "year": 2021,
+    "rating_key": "176287"
+  },
+  {
+    "kind": "movie",
+    "title": "Doctor Strange",
+    "year": 2016,
+    "rating_key": "179111"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 1,
+    "title": "Episode 1",
+    "rating_key": "236530"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 2,
+    "title": "Episode 2",
+    "rating_key": "236531"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 3,
+    "title": "Episode 3",
+    "rating_key": "236532"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 4,
+    "title": "Episode 4",
+    "rating_key": "236533"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 5,
+    "title": "Episode 5",
+    "rating_key": "236534"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 6,
+    "title": "Episode 6",
+    "rating_key": "236535"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 7,
+    "title": "Episode 7",
+    "rating_key": "236536"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 8,
+    "title": "Episode 8",
+    "rating_key": "236537"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 9,
+    "title": "Episode 9",
+    "rating_key": "236538"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 10,
+    "title": "Episode 10",
+    "rating_key": "236539"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 11,
+    "title": "Episode 11",
+    "rating_key": "236540"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 12,
+    "title": "Episode 12",
+    "rating_key": "236541"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 13,
+    "title": "Episode 13",
+    "rating_key": "236542"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 14,
+    "title": "Episode 14",
+    "rating_key": "236543"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 15,
+    "title": "Episode 15",
+    "rating_key": "236544"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 16,
+    "title": "Episode 16",
+    "rating_key": "236545"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 17,
+    "title": "Episode 17",
+    "rating_key": "236546"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 18,
+    "title": "Episode 18",
+    "rating_key": "236547"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 19,
+    "title": "Episode 19",
+    "rating_key": "236548"
+  },
+  {
+    "kind": "movie",
+    "title": "Black Panther",
+    "year": 2018,
+    "rating_key": "176146"
+  },
+  {
+    "kind": "movie",
+    "title": "Thor: Ragnarok",
+    "year": 2017,
+    "rating_key": "180378"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 20,
+    "title": "Episode 20",
+    "rating_key": "236549"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 21,
+    "title": "Episode 21",
+    "rating_key": "236550"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 5,
+    "episode": 22,
+    "title": "Episode 22",
+    "rating_key": "236551"
+  },
+  {
+    "kind": "movie",
+    "title": "Ant-Man and the Wasp",
+    "year": 2018,
+    "rating_key": "178909"
+  },
+  {
+    "kind": "movie",
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "rating_key": "180235"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 6,
+    "episode": 1,
+    "title": "Missing Pieces",
+    "rating_key": "236623"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 6,
+    "episode": 2,
+    "title": "Window of Opportunity",
+    "rating_key": "236624"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 6,
+    "episode": 3,
+    "title": "Fear and Loathing on the Planet of Kitson",
+    "rating_key": "236625"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 6,
+    "episode": 4,
+    "title": "Code Yellow",
+    "rating_key": "236626"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 6,
+    "episode": 5,
+    "title": "The Other Thing",
+    "rating_key": "236627"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 6,
+    "episode": 6,
+    "title": "Inescapable",
+    "rating_key": "236628"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 6,
+    "episode": 7,
+    "title": "Toldja",
+    "rating_key": "236629"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 6,
+    "episode": 8,
+    "title": "Collision Course (1)",
+    "rating_key": "236630"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 6,
+    "episode": 9,
+    "title": "Collision Course (2)",
+    "rating_key": "236631"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 6,
+    "episode": 10,
+    "title": "Leap",
+    "rating_key": "236632"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 6,
+    "episode": 11,
+    "title": "From the Ashes",
+    "rating_key": "236633"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 6,
+    "episode": 12,
+    "title": "The Sign",
+    "rating_key": "236634"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 6,
+    "episode": 13,
+    "title": "New Life",
+    "rating_key": "236635"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 7,
+    "episode": 1,
+    "title": "The New Deal",
+    "rating_key": "237103"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 7,
+    "episode": 2,
+    "title": "Know Your Onions",
+    "rating_key": "237104"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 7,
+    "episode": 3,
+    "title": "Alien Commies from the Future!",
+    "rating_key": "237105"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 7,
+    "episode": 4,
+    "title": "Out of the Past",
+    "rating_key": "236552"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 7,
+    "episode": 5,
+    "title": "A Trout in the Milk",
+    "rating_key": "236528"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 7,
+    "episode": 6,
+    "title": "Adapt or Die",
+    "rating_key": "236524"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 7,
+    "episode": 7,
+    "title": "The Totally Excellent Adventures of Mack and The D",
+    "rating_key": "237106"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 7,
+    "episode": 8,
+    "title": "After, Before",
+    "rating_key": "236523"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 7,
+    "episode": 9,
+    "title": "As I Have Always Been",
+    "rating_key": "236525"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 7,
+    "episode": 10,
+    "title": "Stolen",
+    "rating_key": "236526"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 7,
+    "episode": 11,
+    "title": "Brand New Day",
+    "rating_key": "236527"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 7,
+    "episode": 12,
+    "title": "The End Is at Hand",
+    "rating_key": "237107"
+  },
+  {
+    "kind": "episode",
+    "series": "Marvel's Agents of S.H.I.E.L.D.",
+    "season": 7,
+    "episode": 13,
+    "title": "What We're Fighting For",
+    "rating_key": "237108"
+  },
+  {
+    "kind": "movie",
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "rating_key": "180202"
+  },
+  {
+    "kind": "episode",
+    "series": "WandaVision",
+    "season": 1,
+    "episode": 1,
+    "title": "Episode 1",
+    "rating_key": "236722"
+  },
+  {
+    "kind": "episode",
+    "series": "WandaVision",
+    "season": 1,
+    "episode": 2,
+    "title": "Episode 2",
+    "rating_key": "236723"
+  },
+  {
+    "kind": "episode",
+    "series": "WandaVision",
+    "season": 1,
+    "episode": 3,
+    "title": "Episode 3",
+    "rating_key": "236724"
+  },
+  {
+    "kind": "episode",
+    "series": "WandaVision",
+    "season": 1,
+    "episode": 4,
+    "title": "Episode 4",
+    "rating_key": "236725"
+  },
+  {
+    "kind": "episode",
+    "series": "WandaVision",
+    "season": 1,
+    "episode": 5,
+    "title": "Episode 5",
+    "rating_key": "236726"
+  },
+  {
+    "kind": "episode",
+    "series": "WandaVision",
+    "season": 1,
+    "episode": 6,
+    "title": "Episode 6",
+    "rating_key": "236727"
+  },
+  {
+    "kind": "episode",
+    "series": "WandaVision",
+    "season": 1,
+    "episode": 7,
+    "title": "Episode 7",
+    "rating_key": "236728"
+  },
+  {
+    "kind": "episode",
+    "series": "WandaVision",
+    "season": 1,
+    "episode": 8,
+    "title": "Episode 8",
+    "rating_key": "236729"
+  },
+  {
+    "kind": "episode",
+    "series": "WandaVision",
+    "season": 1,
+    "episode": 9,
+    "title": "Episode 9",
+    "rating_key": "236730"
+  },
+  {
+    "kind": "episode",
+    "series": "Loki",
+    "season": 1,
+    "episode": 1,
+    "title": "Glorious Purpose",
+    "rating_key": "137308"
+  },
+  {
+    "kind": "episode",
+    "series": "Loki",
+    "season": 1,
+    "episode": 2,
+    "title": "The Variant",
+    "rating_key": "137304"
+  },
+  {
+    "kind": "episode",
+    "series": "Loki",
+    "season": 1,
+    "episode": 3,
+    "title": "Lamentis",
+    "rating_key": "137305"
+  },
+  {
+    "kind": "episode",
+    "series": "Loki",
+    "season": 1,
+    "episode": 4,
+    "title": "The Nexus Event",
+    "rating_key": "137249"
+  },
+  {
+    "kind": "episode",
+    "series": "Loki",
+    "season": 1,
+    "episode": 5,
+    "title": "Journey into Mystery",
+    "rating_key": "137306"
+  },
+  {
+    "kind": "episode",
+    "series": "Loki",
+    "season": 1,
+    "episode": 6,
+    "title": "For All Time. Always.",
+    "rating_key": "137307"
+  },
+  {
+    "kind": "episode",
+    "series": "Loki",
+    "season": 2,
+    "episode": 1,
+    "title": "Ouroboros",
+    "rating_key": "137283"
+  },
+  {
+    "kind": "episode",
+    "series": "Loki",
+    "season": 2,
+    "episode": 2,
+    "title": "Breaking Brad",
+    "rating_key": "137383"
+  },
+  {
+    "kind": "episode",
+    "series": "Loki",
+    "season": 2,
+    "episode": 3,
+    "title": "1893",
+    "rating_key": "137556"
+  },
+  {
+    "kind": "episode",
+    "series": "Loki",
+    "season": 2,
+    "episode": 4,
+    "title": "Heart of the TVA",
+    "rating_key": "137773"
+  },
+  {
+    "kind": "episode",
+    "series": "Loki",
+    "season": 2,
+    "episode": 5,
+    "title": "Science/Fiction",
+    "rating_key": "137820"
+  },
+  {
+    "kind": "episode",
+    "series": "Loki",
+    "season": 2,
+    "episode": 6,
+    "title": "Glorious Purpose",
+    "rating_key": "138059"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 1,
+    "episode": 1,
+    "title": "Night of the Sentinels (1)",
+    "rating_key": "165476"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 1,
+    "episode": 2,
+    "title": "Night of the Sentinels (2)",
+    "rating_key": "165477"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 1,
+    "episode": 3,
+    "title": "Enter Magneto",
+    "rating_key": "165478"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 1,
+    "episode": 4,
+    "title": "Deadly Reunions",
+    "rating_key": "165479"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 1,
+    "episode": 5,
+    "title": "Captive Hearts",
+    "rating_key": "165480"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 1,
+    "episode": 6,
+    "title": "Cold Vengeance",
+    "rating_key": "165481"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 1,
+    "episode": 7,
+    "title": "Slave Island",
+    "rating_key": "165482"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 1,
+    "episode": 8,
+    "title": "The Cure",
+    "rating_key": "165483"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 1,
+    "episode": 9,
+    "title": "Come the Apocalypse",
+    "rating_key": "165484"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 1,
+    "episode": 10,
+    "title": "The Unstoppable Juggernaut",
+    "rating_key": "165485"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 1,
+    "episode": 11,
+    "title": "Days of Future Past (1)",
+    "rating_key": "165486"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 1,
+    "episode": 12,
+    "title": "Days of Future Past (2)",
+    "rating_key": "165487"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 1,
+    "episode": 13,
+    "title": "The Final Decision",
+    "rating_key": "165488"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 2,
+    "episode": 1,
+    "title": "Till Death Do Us Part (1)",
+    "rating_key": "231225"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 2,
+    "episode": 2,
+    "title": "Till Death Do Us Part (2)",
+    "rating_key": "165959"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 2,
+    "episode": 3,
+    "title": "Whatever It Takes",
+    "rating_key": "165960"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 2,
+    "episode": 4,
+    "title": "Red Dawn",
+    "rating_key": "165961"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 2,
+    "episode": 5,
+    "title": "Repo Man",
+    "rating_key": "165962"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 2,
+    "episode": 6,
+    "title": "X-Ternally Yours",
+    "rating_key": "165963"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 2,
+    "episode": 7,
+    "title": "Time Fugitives (1)",
+    "rating_key": "165964"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 2,
+    "episode": 8,
+    "title": "Time Fugitives (2)",
+    "rating_key": "165965"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 2,
+    "episode": 9,
+    "title": "A Rogue's Tale",
+    "rating_key": "165966"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 2,
+    "episode": 10,
+    "title": "Beauty & the Beast",
+    "rating_key": "165967"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 2,
+    "episode": 11,
+    "title": "Mojovision",
+    "rating_key": "165968"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 2,
+    "episode": 12,
+    "title": "Reunion (1)",
+    "rating_key": "165969"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 2,
+    "episode": 13,
+    "title": "Reunion (2)",
+    "rating_key": "165970"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 1,
+    "title": "Out of the Past (1)",
+    "rating_key": "165998"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 2,
+    "title": "Out of the Past (2)",
+    "rating_key": "165999"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 3,
+    "title": "The Phoenix Saga: Sacrifice (1)",
+    "rating_key": "166000"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 4,
+    "title": "The Phoenix Saga: The Dark Shroud (2)",
+    "rating_key": "166001"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 5,
+    "title": "The Phoenix Saga: Cry of the Banshee (3)",
+    "rating_key": "166002"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 6,
+    "title": "The Phoenix Saga: The Starjammers (4)",
+    "rating_key": "166003"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 7,
+    "title": "The Phoenix Saga: Child of Light (5)",
+    "rating_key": "166004"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 5,
+    "episode": 4,
+    "title": "No Mutant Is an Island",
+    "rating_key": "166068"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 10,
+    "title": "Obsession",
+    "rating_key": "236278"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 5,
+    "episode": 5,
+    "title": "Longshot",
+    "rating_key": "166069"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 15,
+    "title": "Cold Comfort",
+    "rating_key": "166012"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 8,
+    "title": "Savage Land, Strange Heart (1)",
+    "rating_key": "236276"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 9,
+    "title": "Savage Land, Strange Heart (2)",
+    "rating_key": "236277"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 11,
+    "title": "The Dark Phoenix: Dazzled (1)",
+    "rating_key": "166008"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 12,
+    "title": "The Dark Phoenix: The Inner Circle (2)",
+    "rating_key": "166009"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 13,
+    "title": "The Dark Phoenix: The Dark Phoenix (3)",
+    "rating_key": "166010"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 14,
+    "title": "The Dark Phoenix: The Fate of the Phoenix (4)",
+    "rating_key": "166011"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 16,
+    "title": "Orphan's End",
+    "rating_key": "166013"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 14,
+    "title": "Love in Vain",
+    "rating_key": "166052"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 17,
+    "title": "The Juggernaut Returns",
+    "rating_key": "166014"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 5,
+    "episode": 3,
+    "title": "A Deal with the Devil",
+    "rating_key": "166067"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 6,
+    "title": "Sanctuary (1)",
+    "rating_key": "166044"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 7,
+    "title": "Sanctuary (2)",
+    "rating_key": "166045"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 16,
+    "title": "Xavier Remembers",
+    "rating_key": "236271"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 3,
+    "title": "Courage",
+    "rating_key": "166041"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 15,
+    "title": "Secrets, Not Long Buried",
+    "rating_key": "236270"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 18,
+    "title": "Nightcrawler",
+    "rating_key": "166015"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 1,
+    "title": "One Man's Worth (1)",
+    "rating_key": "166039"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 2,
+    "title": "One Man's Worth (2)",
+    "rating_key": "166040"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 4,
+    "title": "Proteus (1)",
+    "rating_key": "166042"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 5,
+    "title": "Proteus (2)",
+    "rating_key": "166043"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 17,
+    "title": "Family Ties",
+    "rating_key": "236272"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 5,
+    "episode": 6,
+    "title": "Bloodlines",
+    "rating_key": "166070"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 13,
+    "title": "The Lotus and the Steel",
+    "rating_key": "166051"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 3,
+    "episode": 19,
+    "title": "Weapon X, Lies, and Video Tape",
+    "rating_key": "166016"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 12,
+    "title": "Have Yourself a Morlock Little X-Mas",
+    "rating_key": "166050"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 8,
+    "title": "Beyond Good and Evil (1)",
+    "rating_key": "166046"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 9,
+    "title": "Beyond Good and Evil (2)",
+    "rating_key": "166047"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 10,
+    "title": "Beyond Good and Evil (3)",
+    "rating_key": "166048"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 4,
+    "episode": 11,
+    "title": "Beyond Good and Evil (4)",
+    "rating_key": "166049"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 5,
+    "episode": 1,
+    "title": "The Phalanx Covenant (1)",
+    "rating_key": "166065"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 5,
+    "episode": 2,
+    "title": "The Phalanx Covenant (2)",
+    "rating_key": "166066"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 5,
+    "episode": 7,
+    "title": "Storm Front (1)",
+    "rating_key": "166071"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 5,
+    "episode": 8,
+    "title": "Storm Front (2)",
+    "rating_key": "166072"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 5,
+    "episode": 10,
+    "title": "The Fifth Horseman",
+    "rating_key": "166074"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men: The Animated Series",
+    "season": 5,
+    "episode": 9,
+    "title": "Jubilee's Fairytale Theatre",
+    "rating_key": "166073"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men '97",
+    "season": 1,
+    "episode": 1,
+    "title": "To Me, My X-Men",
+    "rating_key": "164536"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men '97",
+    "season": 1,
+    "episode": 2,
+    "title": "Mutant Liberation Begins",
+    "rating_key": "164537"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men '97",
+    "season": 1,
+    "episode": 3,
+    "title": "Fire Made Flesh",
+    "rating_key": "164635"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men '97",
+    "season": 1,
+    "episode": 4,
+    "title": "Motendo / Lifedeath (1)",
+    "rating_key": "165349"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men '97",
+    "season": 1,
+    "episode": 5,
+    "title": "Remember It",
+    "rating_key": "166203"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men '97",
+    "season": 1,
+    "episode": 6,
+    "title": "Lifedeath (2)",
+    "rating_key": "167024"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men '97",
+    "season": 1,
+    "episode": 7,
+    "title": "Bright Eyes",
+    "rating_key": "168261"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men '97",
+    "season": 1,
+    "episode": 8,
+    "title": "Tolerance Is Extinction (1)",
+    "rating_key": "168642"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men '97",
+    "season": 1,
+    "episode": 9,
+    "title": "Tolerance Is Extinction (2)",
+    "rating_key": "169320"
+  },
+  {
+    "kind": "episode",
+    "series": "X-Men '97",
+    "season": 1,
+    "episode": 10,
+    "title": "Tolerance Is Extinction (3)",
+    "rating_key": "181485"
+  },
+  {
+    "kind": "movie",
+    "title": "X-Men: First Class",
+    "year": 2011,
+    "rating_key": "180271"
+  },
+  {
+    "kind": "movie",
+    "title": "X-Men Origins: Wolverine",
+    "year": 2009,
+    "rating_key": "52301"
+  },
+  {
+    "kind": "movie",
+    "title": "X-Men",
+    "year": 2000,
+    "rating_key": "180234"
+  },
+  {
+    "kind": "movie",
+    "title": "X2: X-Men United",
+    "year": 2003,
+    "rating_key": "180279"
+  },
+  {
+    "kind": "movie",
+    "title": "X-Men: The Last Stand",
+    "year": 2006,
+    "rating_key": "180204"
+  },
+  {
+    "kind": "movie",
+    "title": "The Wolverine",
+    "year": 2013,
+    "rating_key": "184379"
+  },
+  {
+    "kind": "movie",
+    "title": "X-Men: Days of Future Past",
+    "year": 2014,
+    "rating_key": "176180"
+  },
+  {
+    "kind": "movie",
+    "title": "X-Men: Apocalypse",
+    "year": 2016,
+    "rating_key": "176230"
+  },
+  {
+    "kind": "movie",
+    "title": "X-Men: Dark Phoenix",
+    "year": 2019,
+    "rating_key": "176439"
+  },
+  {
+    "kind": "movie",
+    "title": "Deadpool",
+    "year": 2016,
+    "rating_key": "192414"
+  },
+  {
+    "kind": "movie",
+    "title": "The New Mutants",
+    "year": 2020,
+    "rating_key": "245388"
+  },
+  {
+    "kind": "movie",
+    "title": "Deadpool 2",
+    "year": 2018,
+    "rating_key": "185383"
+  },
+  {
+    "kind": "movie",
+    "title": "Logan",
+    "year": 2017,
+    "rating_key": "192443"
+  },
+  {
+    "kind": "movie",
+    "title": "Blade",
+    "year": 1998,
+    "rating_key": "214250"
+  },
+  {
+    "kind": "movie",
+    "title": "Blade II",
+    "year": 2002,
+    "rating_key": "241946"
+  },
+  {
+    "kind": "movie",
+    "title": "Blade: Trinity",
+    "year": 2004,
+    "rating_key": "241933"
+  },
+  {
+    "kind": "movie",
+    "title": "Fantastic Four",
+    "year": 2005,
+    "rating_key": "180059"
+  },
+  {
+    "kind": "movie",
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "year": 2007,
+    "rating_key": "178673"
+  },
+  {
+    "kind": "movie",
+    "title": "Fantastic Four",
+    "year": 2015,
+    "rating_key": "245401"
+  },
+  {
+    "kind": "movie",
+    "title": "The Fantastic Four: First Steps",
+    "year": 2025,
+    "rating_key": "242798"
+  },
+  {
+    "kind": "movie",
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "rating_key": "180362"
+  },
+  {
+    "kind": "movie",
+    "title": "Deadpool & Wolverine",
+    "year": 2024,
+    "rating_key": "227157"
+  },
+  {
+    "kind": "movie",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "rating_key": "176714"
+  },
+  {
+    "kind": "movie",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "rating_key": "176231"
+  },
+  {
+    "kind": "movie",
+    "title": "Spider-Man",
+    "year": 2002,
+    "rating_key": "176721"
+  },
+  {
+    "kind": "movie",
+    "title": "Spider-Man 2",
+    "year": 2004,
+    "rating_key": "177383"
+  },
+  {
+    "kind": "movie",
+    "title": "Spider-Man 3",
+    "year": 2007,
+    "rating_key": "180280"
+  },
+  {
+    "kind": "movie",
+    "title": "The Amazing Spider-Man",
+    "year": 2012,
+    "rating_key": "178916"
+  },
+  {
+    "kind": "movie",
+    "title": "The Amazing Spider-Man 2",
+    "year": 2014,
+    "rating_key": "178914"
+  },
+  {
+    "kind": "movie",
+    "title": "Madame Web",
+    "year": 2024,
+    "rating_key": "182952"
+  },
+  {
+    "kind": "movie",
+    "title": "Kraven the Hunter",
+    "year": 2024,
+    "rating_key": "232894"
+  },
+  {
+    "kind": "movie",
+    "title": "Venom",
+    "year": 2018,
+    "rating_key": "188468"
+  },
+  {
+    "kind": "movie",
+    "title": "Venom: Let There Be Carnage",
+    "year": 2021,
+    "rating_key": "192446"
+  },
+  {
+    "kind": "movie",
+    "title": "Spider-Man: Far from Home",
+    "year": 2019,
+    "rating_key": "180403"
+  },
+  {
+    "kind": "movie",
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "rating_key": "180298"
+  },
+  {
+    "kind": "movie",
+    "title": "Venom: The Last Dance",
+    "year": 2024,
+    "rating_key": "232531"
+  },
+  {
+    "kind": "movie",
+    "title": "Morbius",
+    "year": 2022,
+    "rating_key": "176542"
+  },
+  {
+    "kind": "movie",
+    "title": "Eternals",
+    "year": 2021,
+    "rating_key": "185386"
+  },
+  {
+    "kind": "movie",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "year": 2022,
+    "rating_key": "176179"
+  },
+  {
+    "kind": "movie",
+    "title": "Thor: Love and Thunder",
+    "year": 2022,
+    "rating_key": "178737"
+  },
+  {
+    "kind": "movie",
+    "title": "Black Panther: Wakanda Forever",
+    "year": 2022,
+    "rating_key": "176448"
+  },
+  {
+    "kind": "episode",
+    "series": "Ironheart",
+    "season": 1,
+    "episode": 1,
+    "title": "Take Me Home",
+    "rating_key": "236745"
+  },
+  {
+    "kind": "episode",
+    "series": "Ironheart",
+    "season": 1,
+    "episode": 2,
+    "title": "Will the Real Natalie Please Stand Up?",
+    "rating_key": "236746"
+  },
+  {
+    "kind": "episode",
+    "series": "Ironheart",
+    "season": 1,
+    "episode": 3,
+    "title": "We in Danger, Girl",
+    "rating_key": "236749"
+  },
+  {
+    "kind": "episode",
+    "series": "Ironheart",
+    "season": 1,
+    "episode": 4,
+    "title": "Bad Magic",
+    "rating_key": "236866"
+  },
+  {
+    "kind": "episode",
+    "series": "Ironheart",
+    "season": 1,
+    "episode": 5,
+    "title": "Karma's a Glitch",
+    "rating_key": "236867"
+  },
+  {
+    "kind": "episode",
+    "series": "Ironheart",
+    "season": 1,
+    "episode": 6,
+    "title": "The Past Is the Past",
+    "rating_key": "236868"
+  },
+  {
+    "kind": "movie",
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "year": 2023,
+    "rating_key": "177399"
+  },
+  {
+    "kind": "movie",
+    "title": "Guardians of the Galaxy Vol. 3",
+    "year": 2023,
+    "rating_key": "176723"
+  },
+  {
+    "kind": "episode",
+    "series": "Secret Invasion",
+    "season": 1,
+    "episode": 1,
+    "title": "Resurrection",
+    "rating_key": "131312"
+  },
+  {
+    "kind": "episode",
+    "series": "Secret Invasion",
+    "season": 1,
+    "episode": 2,
+    "title": "Promises",
+    "rating_key": "131329"
+  },
+  {
+    "kind": "episode",
+    "series": "Secret Invasion",
+    "season": 1,
+    "episode": 4,
+    "title": "Beloved",
+    "rating_key": "131656"
+  },
+  {
+    "kind": "episode",
+    "series": "Secret Invasion",
+    "season": 1,
+    "episode": 5,
+    "title": "Harvest",
+    "rating_key": "132494"
+  },
+  {
+    "kind": "episode",
+    "series": "Secret Invasion",
+    "season": 1,
+    "episode": 6,
+    "title": "Home",
+    "rating_key": "132635"
+  },
+  {
+    "kind": "movie",
+    "title": "The Marvels",
+    "year": 2023,
+    "rating_key": "183912"
+  },
+  {
+    "kind": "movie",
+    "title": "Captain America: Brave New World",
+    "year": 2025,
+    "rating_key": "235247"
+  },
+  {
+    "kind": "movie",
+    "title": "Thunderbolts*",
+    "year": 2025,
+    "rating_key": "236703"
+  }
+]

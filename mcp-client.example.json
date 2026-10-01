@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jason-plex-watchkeeper": {
+      "command": "docker",
+      "args": ["compose", "-f", "/ABSOLUTE/PATH/plex-watchkeeper/compose.yaml", "exec", "-T", "watchkeeper", "python", "plugin.py"]
+    }
+  }
+}
